@@ -78,10 +78,10 @@ public class UnityChanController : MonoBehaviour
             else if(axis2.y!=0) vec.x *= -1;
             vec=vec.normalized;
             float angle = Vector3.Angle (vec,  transform.root.gameObject.transform.forward);
-            
             var axis = Vector3.Cross( transform.root.gameObject.transform.forward,vec  );
             if (axis.y < 0) angle *= -1;
-            if (angle2 > 45&&angle2<135) angle *= -1;
+            if (angle2 > 45&&angle2<180) angle *= -1;
+            Debug.Log(angle2);
             transform.rotation = Quaternion.AngleAxis(angle+angle2,transform.up);
             animator.SetBool("isrunning",true);
             transform.Translate(0,0,vec.magnitude*0.05f);

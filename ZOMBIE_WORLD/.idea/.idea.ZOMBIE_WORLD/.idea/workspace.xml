@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8d2e603-0b58-4b0e-b267-b726caf160a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CameraControlled.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CameraControlled.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/SD_unitychan/Animations/New Animator Controller.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/SD_unitychan/Animations/New Animator Controller.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/UnityChanController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChanController.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +12,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/CameraControlled.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="375">
               <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <marker date="1566009028491" expanded="true" signature="6:124" ph="..." />
@@ -32,19 +27,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/UnityChanController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+            <state relative-caret-position="569">
+              <caret line="83" column="29" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
               <folding>
-                <marker date="1566008880530" expanded="false" signature="6:139" ph="..." />
-                <marker date="1566008880530" expanded="true" signature="189:3864" ph="{...}" />
-                <marker date="1566008880530" expanded="true" signature="532:589" ph="{...}" />
-                <marker date="1566008880530" expanded="true" signature="641:2653" ph="/* private void Update () { ... */" />
-                <marker date="1566008880530" expanded="true" signature="2673:3857" ph="{...}" />
-                <marker date="1566008880530" expanded="true" signature="2861:3769" ph="{...}" />
-                <marker date="1566008880530" expanded="true" signature="3782:3851" ph="{...}" />
+                <marker date="1566021366240" expanded="false" signature="6:139" ph="..." />
+                <marker date="1566021366240" expanded="true" signature="189:3881" ph="{...}" />
+                <marker date="1566021366240" expanded="true" signature="532:589" ph="{...}" />
+                <marker date="1566021366240" expanded="true" signature="641:2653" ph="/* private void Update () { ... */" />
+                <marker date="1566021366240" expanded="true" signature="2673:3874" ph="{...}" />
+                <marker date="1566021366240" expanded="true" signature="2861:3786" ph="{...}" />
+                <marker date="1566021366240" expanded="true" signature="3799:3868" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -152,7 +147,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
+            <state relative-caret-position="540">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <marker date="1406117089000" expanded="false" signature="6:44" ph="..." />
@@ -328,7 +323,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
+            <state relative-caret-position="1065">
               <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
               <folding>
                 <marker date="1520267758000" expanded="true" signature="72:7194" ph="{...}" />
@@ -397,8 +392,8 @@
         <option value="$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlinkforSD.cs" />
         <option value="$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlink.cs" />
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs" />
-        <option value="$PROJECT_DIR$/Assets/UnityChanController.cs" />
         <option value="$PROJECT_DIR$/Assets/CameraControlled.cs" />
+        <option value="$PROJECT_DIR$/Assets/UnityChanController.cs" />
       </list>
     </option>
   </component>
@@ -477,11 +472,12 @@
       <workItem from="1565848346298" duration="2595000" />
       <workItem from="1565914698763" duration="10334000" />
       <workItem from="1566005329684" duration="4325000" />
+      <workItem from="1566021144100" duration="288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30562000" />
+    <option name="totallyTimeSpent" value="30850000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -596,6 +592,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CameraControlled.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <marker date="1566009028491" expanded="true" signature="6:124" ph="..." />
+            <marker date="1566009028491" expanded="true" signature="171:1058" ph="{...}" />
+            <marker date="1566009028491" expanded="true" signature="436:706" ph="{...}" />
+            <marker date="1566009028491" expanded="true" signature="767:1056" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlink.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -603,7 +612,6 @@
           <folding>
             <marker date="1564744659097" expanded="true" signature="0:59" ph="/* AutoBlink.cs ... */" />
             <marker date="1564744659097" expanded="true" signature="66:104" ph="..." />
-            <marker date="1564744659097" expanded="true" signature="125:2836" ph="{...}" />
             <marker date="1564744659097" expanded="true" signature="167:2834" ph="{...}" />
             <marker date="1564744659097" expanded="true" signature="815:864" ph="{...}" />
             <marker date="1564744659097" expanded="true" signature="925:1105" ph="{...}" />
@@ -637,7 +645,6 @@
           <folding>
             <marker date="1564741799535" expanded="true" signature="0:74" ph="/* AutoBlinkforSD.cs ... */" />
             <marker date="1564741799535" expanded="true" signature="81:119" ph="..." />
-            <marker date="1564741799535" expanded="true" signature="140:2949" ph="{...}" />
             <marker date="1564741799535" expanded="true" signature="187:2947" ph="{...}" />
             <marker date="1564741799535" expanded="true" signature="931:980" ph="{...}" />
             <marker date="1564741799535" expanded="true" signature="1041:1221" ph="{...}" />
@@ -672,7 +679,6 @@
           <folding>
             <marker date="1406117089000" expanded="true" signature="0:244" ph="/* SpingManager.cs for unity-chan! ... */" />
             <marker date="1406117089000" expanded="false" signature="251:289" ph="..." />
-            <marker date="1406117089000" expanded="true" signature="310:2008" ph="{...}" />
             <marker date="1406117089000" expanded="true" signature="356:2006" ph="{...}" />
             <marker date="1406117089000" expanded="true" signature="362:446" ph="/* Kobayashi ... */" />
             <marker date="1406117089000" expanded="true" signature="681:713" ph="{...}" />
@@ -685,6 +691,30 @@
             <marker date="1406117089000" expanded="true" signature="1425:2003" ph="{...}" />
             <marker date="1406117089000" expanded="true" signature="1771:1999" ph="{...}" />
             <marker date="1406117089000" expanded="true" signature="1842:1994" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <marker date="1406117089000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1406117089000" expanded="true" signature="65:1501" ph="{...}" />
+            <marker date="1406117089000" expanded="true" signature="108:1499" ph="{...}" />
+            <marker date="1406117089000" expanded="true" signature="244:289" ph="{...}" />
+            <marker date="1406117089000" expanded="true" signature="306:764" ph="{...}" />
+            <marker date="1406117089000" expanded="true" signature="570:674" ph="{...}" />
+            <marker date="1406117089000" expanded="true" signature="621:669" ph="{...}" />
+            <marker date="1406117089000" expanded="true" signature="804:988" ph="{...}" />
+            <marker date="1406117089000" expanded="true" signature="843:866" ph="{...}" />
+            <marker date="1406117089000" expanded="true" signature="889:947" ph="{...}" />
+            <marker date="1406117089000" expanded="true" signature="1073:1390" ph="{...}" />
+            <marker date="1406117089000" expanded="true" signature="1143:1385" ph="{...}" />
+            <marker date="1406117089000" expanded="true" signature="1176:1218" ph="{...}" />
+            <marker date="1406117089000" expanded="true" signature="1259:1283" ph="{...}" />
+            <marker date="1406117089000" expanded="true" signature="1422:1496" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -837,7 +867,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
+        <state relative-caret-position="1065">
           <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
           <folding>
             <marker date="1520267758000" expanded="true" signature="72:7194" ph="{...}" />
@@ -878,53 +908,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UnityChanController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        <state relative-caret-position="569">
+          <caret line="83" column="29" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
           <folding>
-            <marker date="1566008880530" expanded="false" signature="6:139" ph="..." />
-            <marker date="1566008880530" expanded="true" signature="189:3864" ph="{...}" />
-            <marker date="1566008880530" expanded="true" signature="532:589" ph="{...}" />
-            <marker date="1566008880530" expanded="true" signature="641:2653" ph="/* private void Update () { ... */" />
-            <marker date="1566008880530" expanded="true" signature="2673:3857" ph="{...}" />
-            <marker date="1566008880530" expanded="true" signature="2861:3769" ph="{...}" />
-            <marker date="1566008880530" expanded="true" signature="3782:3851" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <marker date="1406117089000" expanded="false" signature="6:44" ph="..." />
-            <marker date="1406117089000" expanded="true" signature="65:1501" ph="{...}" />
-            <marker date="1406117089000" expanded="true" signature="108:1499" ph="{...}" />
-            <marker date="1406117089000" expanded="true" signature="244:289" ph="{...}" />
-            <marker date="1406117089000" expanded="true" signature="306:764" ph="{...}" />
-            <marker date="1406117089000" expanded="true" signature="570:674" ph="{...}" />
-            <marker date="1406117089000" expanded="true" signature="621:669" ph="{...}" />
-            <marker date="1406117089000" expanded="true" signature="804:988" ph="{...}" />
-            <marker date="1406117089000" expanded="true" signature="843:866" ph="{...}" />
-            <marker date="1406117089000" expanded="true" signature="889:947" ph="{...}" />
-            <marker date="1406117089000" expanded="true" signature="1073:1390" ph="{...}" />
-            <marker date="1406117089000" expanded="true" signature="1143:1385" ph="{...}" />
-            <marker date="1406117089000" expanded="true" signature="1176:1218" ph="{...}" />
-            <marker date="1406117089000" expanded="true" signature="1259:1283" ph="{...}" />
-            <marker date="1406117089000" expanded="true" signature="1422:1496" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CameraControlled.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <marker date="1566009028491" expanded="true" signature="6:124" ph="..." />
-            <marker date="1566009028491" expanded="true" signature="171:1058" ph="{...}" />
-            <marker date="1566009028491" expanded="true" signature="436:706" ph="{...}" />
-            <marker date="1566009028491" expanded="true" signature="767:1056" ph="{...}" />
+            <marker date="1566021366240" expanded="false" signature="6:139" ph="..." />
+            <marker date="1566021366240" expanded="true" signature="189:3881" ph="{...}" />
+            <marker date="1566021366240" expanded="true" signature="532:589" ph="{...}" />
+            <marker date="1566021366240" expanded="true" signature="641:2653" ph="/* private void Update () { ... */" />
+            <marker date="1566021366240" expanded="true" signature="2673:3874" ph="{...}" />
+            <marker date="1566021366240" expanded="true" signature="2861:3786" ph="{...}" />
+            <marker date="1566021366240" expanded="true" signature="3799:3868" ph="{...}" />
           </folding>
         </state>
       </provider>
