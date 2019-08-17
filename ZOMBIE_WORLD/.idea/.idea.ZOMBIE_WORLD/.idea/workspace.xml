@@ -2,6 +2,949 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8d2e603-0b58-4b0e-b267-b726caf160a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyCrouch.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyCrouch.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyCrouchingWalk.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyCrouchingWalk.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyFalling.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyFalling.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyIdle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyIdle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump01.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump01.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump02.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump02.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump03.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump03.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump04.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump04.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump05.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump05.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump06.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump06.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump07.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump07.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump08.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump08.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump09.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump09.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump10.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump10.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump11.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyJump11.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyRun.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyRun.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyWalk.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animations/RobotBoyWalk.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animator.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animator/2dCharacterAnimator.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Animator/2dCharacterAnimator.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Materials/SpriteLit.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Materials/SpriteLit.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/PhysicsMaterials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/PhysicsMaterials/BouncyBox.physicsMaterial2D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/PhysicsMaterials/BouncyBox.physicsMaterial2D.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/PhysicsMaterials/Slippery.physicsMaterial2D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/PhysicsMaterials/Slippery.physicsMaterial2D.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/PhysicsMaterials/Sticky.physicsMaterial2D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/PhysicsMaterials/Sticky.physicsMaterial2D.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/CharacterRobotBoy.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/CharacterRobotBoy.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/CollisionSlider.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/CollisionSlider.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/CratePink.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/CratePink.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/ExtentsLeft.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/ExtentsLeft.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/ExtentsRight.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/ExtentsRight.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/Killzone.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/Killzone.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/Platform04x01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/Platform04x01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/Platform08x01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/Platform08x01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/Platform12x01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/Platform12x01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/Platform16x01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/Platform16x01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/Platform36x01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/Platform36x01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/PlatformRamp.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Prefabs/PlatformRamp.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/Camera2DFollow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/Camera2DFollow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/CameraFollow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/CameraFollow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/Platformer2DUserControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/Platformer2DUserControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/Restarter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/Restarter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/BackgroundGreyGridSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/BackgroundGreyGridSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/BackgroundNavyGridSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/BackgroundNavyGridSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/CratePinkGridSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/CratePinkGridSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/PlatformWhiteSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/PlatformWhiteSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyCrouchSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyCrouchSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyDeathSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyDeathSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyIdleSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyIdleSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyJumpSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyJumpSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyRollSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyRollSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyWalkSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyWalkSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/CameraGuidelines.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/CameraGuidelines.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Prefabs/CctvCamera.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Prefabs/CctvCamera.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Prefabs/FreeLookCameraRig.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Prefabs/FreeLookCameraRig.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Prefabs/HandheldCamera.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Prefabs/HandheldCamera.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Prefabs/MultipurposeCameraRig.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Prefabs/MultipurposeCameraRig.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/AbstractTargetFollower.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/AbstractTargetFollower.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/AutoCam.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/AutoCam.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/HandHeldCam.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/HandHeldCam.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/LookatTarget.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/LookatTarget.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/PivotBasedCameraRig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/PivotBasedCameraRig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/ProtectCameraFromWallClip.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/ProtectCameraFromWallClip.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/TargetFieldOfView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/TargetFieldOfView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Editor/Water.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Editor/Water/Water4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Editor/Water/Water4/GerstnerDisplaceEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Editor/Water/Water4/GerstnerDisplaceEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Editor/Water/Water4/PlanarReflectionEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Editor/Water/Water4/PlanarReflectionEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Editor/Water/Water4/SpecularLightingEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Editor/Water/Water4/SpecularLightingEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Editor/Water/Water4/WaterBaseEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Editor/Water/Water4/WaterBaseEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Editor/Water/Water4/WaterEditorUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Editor/Water/Water4/WaterEditorUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Materials/GlassRefractive.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Materials/GlassRefractive.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Shaders/GlassStainedBumpDistort.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Shaders/GlassStainedBumpDistort.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedAlbedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedAlbedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedNormals.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedNormals.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightCookie.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightCookie.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightIrregularCookie.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightIrregularCookie.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/LightHardCookie.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/LightHardCookie.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/LightSoftCookie.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/LightSoftCookie.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/LightSquareCookie.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/LightSquareCookie.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Flares.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Flares/50mmZoom.flare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Flares/50mmZoom.flare.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Flares/FlareSmall.flare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Flares/FlareSmall.flare.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Flares/Sun.flare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Flares/Sun.flare.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Materials/Flare50mm.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Materials/Flare50mm.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Textures/Flare50mm.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Textures/Flare50mm.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Textures/FlareStar.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Textures/FlareStar.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Guidelines.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Guidelines.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Materials/GridProjector.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Materials/GridProjector.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Materials/LightProjector.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Materials/LightProjector.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Materials/ShadowProjector.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Materials/ShadowProjector.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Prefabs/BlobLightProjector.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Prefabs/BlobLightProjector.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Prefabs/BlobShadowProjector.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Prefabs/BlobShadowProjector.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Prefabs/GridProjector.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Prefabs/GridProjector.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Textures/Falloff.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Textures/Falloff.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Textures/Grid.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Textures/Grid.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Textures/Light.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Textures/Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Textures/Shadow.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Textures/Shadow.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecular.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecular.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularDisplacement.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularDisplacement.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularSmooth.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularSmooth.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Models/LowPolySphere.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Models/LowPolySphere.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Scenes/TessellationSample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Scenes/TessellationSample.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularDisplacement.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularDisplacement.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularSmooth.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularSmooth.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Textures/CliffHeight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Textures/CliffHeight.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Textures/CliffNormals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Textures/CliffNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Materials/ToonBasic.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Materials/ToonBasic.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Materials/ToonBasicOutline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Materials/ToonBasicOutline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Materials/ToonLit.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Materials/ToonLit.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Materials/ToonLitOutline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Materials/ToonLitOutline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasic.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasic.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasicOutline.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasicOutline.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonLit.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonLit.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonLitOutline.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonLitOutline.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Textures/ToonLit.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Textures/ToonLit.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Textures/UtilToonGradient.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Textures/UtilToonGradient.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/Billboard.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/Billboard.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/FacingLeaves_4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/FacingLeaves_4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/FacingLeaves_4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/FacingLeaves_4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/FacingLeaves_4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/FacingLeaves_4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Specular.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Specular.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/Billboard.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/Billboard.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Leaves_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Leaves_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Leaves_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Leaves_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Leaves_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Leaves_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile.spm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile.spm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Specular.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Specular.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Spec.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Spec.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Spec.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/Billboard.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/Billboard.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Specular.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Specular.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Dekstop_Spec.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Dekstop_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Thumb_Conifer_Desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Thumb_Conifer_Desktop.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Spec.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/Billboard.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/Billboard.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Leaves_3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Leaves_3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Branches_0.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Branches_0.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Fronds_2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Fronds_2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop.spm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop.spm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Specular.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Specular.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Thumb_Palm_Desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Thumb_Palm_Desktop.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond01AlbedoAlpha.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond01AlbedoAlpha.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond02AlbedoAlpha.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond02AlbedoAlpha.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/CliffAlbedoSpecular.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/CliffAlbedoSpecular.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassHillAlbedo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassHillAlbedo.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassRockyAlbedo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassRockyAlbedo.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyAlbedoSpecular.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyAlbedoSpecular.bmp.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyNormals.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyNormals.bmp.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/SandAlbedo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/SandAlbedo.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic).meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/DO_NOT_WORK_IN_VR.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/DO_NOT_WORK_IN_VR.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicDaytime.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicDaytime.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicNighttime.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicNighttime.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Models/WaterBasicPlane.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Models/WaterBasicPlane.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicDaytime.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicDaytime.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicNightime.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicNightime.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Scripts/WaterBasic.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Scripts/WaterBasic.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Shaders/FXWaterBasic.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Shaders/FXWaterBasic.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicDaytimeGradient.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicDaytimeGradient.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNighttimeGradient.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNighttimeGradient.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNormals.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNormals.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/DO_NOT_WORK_IN_VR.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/DO_NOT_WORK_IN_VR.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Materials/WaterProNighttime.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Materials/WaterProNighttime.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Models/WaterPlane.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Models/WaterPlane.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Prefabs/WaterProDaytime.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Prefabs/WaterProDaytime.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Prefabs/WaterProNighttime.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Prefabs/WaterProNighttime.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/Displace.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/Displace.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/GerstnerDisplace.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/GerstnerDisplace.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/MeshContainer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/MeshContainer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/PlanarReflection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/PlanarReflection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/SpecularLighting.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/SpecularLighting.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/Water.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/Water.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/WaterBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/WaterBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/WaterTile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Scripts/WaterTile.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Shaders/FXWaterPro.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Shaders/FXWaterPro.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Textures/WaterBump.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Textures/WaterBump.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Textures/WaterFresnel.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Textures/WaterFresnel.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProDaytimeGradient.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProDaytimeGradient.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProNighttimeGradient.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProNighttimeGradient.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Materials/OceanPlaneMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Materials/OceanPlaneMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Advanced.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Advanced.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Simple.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Simple.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Models/OceanPlane.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Models/OceanPlane.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Prefabs/Water4Advanced.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Prefabs/Water4Advanced.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Prefabs/Water4Simple.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Prefabs/Water4Simple.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Shaders/FXWater4Advanced.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Shaders/FXWater4Advanced.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Shaders/FXWater4Simple.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Shaders/FXWater4Simple.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Shaders/WaterInclude.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Shaders/WaterInclude.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Textures/SimpleFoam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Textures/SimpleFoam.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Textures/SmallWaves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Textures/SmallWaves.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/NavyGrid.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/NavyGrid.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/NavySmooth.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/NavySmooth.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/PinkGrid.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/PinkGrid.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/PinkSmooth.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/PinkSmooth.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/YellowGrid.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/YellowGrid.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/YellowSmooth.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Materials/YellowSmooth.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/BlockPrototype04x04x04.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/BlockPrototype04x04x04.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/CubePrototype02x02x02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/CubePrototype02x02x02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/CubePrototype04x04x04.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/CubePrototype04x04x04.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/CubePrototype08x08x08.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/CubePrototype08x08x08.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/FloorPrototype04x01x04.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/FloorPrototype04x01x04.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/FloorPrototype08x01x08.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/FloorPrototype08x01x08.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/FloorPrototype64x01x64.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/FloorPrototype64x01x64.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/HousePrototype16x16x24.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/HousePrototype16x16x24.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/JoinInnerPrototype01x06x01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/JoinInnerPrototype01x06x01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/JoinMidPrototype04x06x01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/JoinMidPrototype04x06x01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/JoinOuterPrototype02x06x02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/JoinOuterPrototype02x06x02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PickupPrototype01x01x01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PickupPrototype01x01x01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PillarPrototype01x02x01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PillarPrototype01x02x01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PillarPrototype02x08x02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PillarPrototype02x08x02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PlatformPrototype02x01x02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PlatformPrototype02x01x02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PlatformPrototype04x01x04.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PlatformPrototype04x01x04.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PlatformPrototype08x01x08.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PlatformPrototype08x01x08.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/RampPrototype04x02x02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/RampPrototype04x02x02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/StepsPrototype04x02x02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/StepsPrototype04x02x02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/WallPrototype08x08x01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/WallPrototype08x08x01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/BlockPrototype04x04x04.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/BlockPrototype04x04x04.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype02x02x02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype02x02x02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype04x04x04.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype04x04x04.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype08x08x08.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype08x08x08.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype04x01x04.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype04x01x04.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype08x01x08.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype08x01x08.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype64x01x64.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype64x01x64.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/HousePrototype16x16x24.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/HousePrototype16x16x24.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/JoinInnerPrototype01x06x01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/JoinInnerPrototype01x06x01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/JoinMidPrototype04x06x01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/JoinMidPrototype04x06x01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/JoinOuterPrototype02x06x02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/JoinOuterPrototype02x06x02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/PickupPrototype.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/PickupPrototype.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/PillarPrototype01x02x01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/PillarPrototype01x02x01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/PillarPrototype02x08x02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/PillarPrototype02x08x02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/PlatformPrototype02x01x02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/PlatformPrototype02x01x02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/PlatformPrototype04x01x04.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/PlatformPrototype04x01x04.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/PlatformPrototype08x01x08.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/PlatformPrototype08x01x08.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/RampPrototype04x02x02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/RampPrototype04x02x02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/StepsPrototype04x02x02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/StepsPrototype04x02x02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/WallPrototype08x08x01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Prefabs/WallPrototype08x08x01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Shaders/WorldCoordDiffuse.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Shaders/WorldCoordDiffuse.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/GridEmissive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/GridEmissive.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchMauveAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchMauveAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchNavyAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchNavyAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchNavyDarkAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchNavyDarkAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchOrangeAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchOrangeAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchPinkDAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchPinkDAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchTealAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchTealAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchTurquoiseAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchTurquoiseAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchWhiteAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchWhiteAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchYellowAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchYellowAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/AircraftGuidelines.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/AircraftGuidelines.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/JetGearLower.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/JetGearLower.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/JetGearLowered.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/JetGearLowered.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/JetGearRaise.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/JetGearRaise.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/JetGearRaised.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/JetGearRaised.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/JetPlane.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/JetPlane.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/PropGearLower.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/PropGearLower.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/PropGearLowered.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/PropGearLowered.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/PropGearRaise.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/PropGearRaise.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/PropGearRaised.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/PropGearRaised.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/PropPlane.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Animation/PropPlane.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Audio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Audio/FlightWind.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Audio/FlightWind.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Audio/JetEngine.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Audio/JetEngine.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Audio/PropellerEngine.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Audio/PropellerEngine.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageGrey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageGrey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageWhite.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftFuselageWhite.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetGrey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetGrey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetWhite.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsJetWhite.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurGrey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurGrey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurWhite.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellerBlurWhite.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersGrey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersGrey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersWhite.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/AircraftWingsPropellersWhite.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/ParticleAfterburner.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/ParticleAfterburner.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/ParticleContrail.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/ParticleContrail.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/ParticleJetTrail.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Materials/ParticleJetTrail.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftFuselage.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftFuselage.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftWingsJet.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftWingsJet.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftWingsPropeller.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftWingsPropeller.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftJet.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftJet.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftJetAI.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftJetAI.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftPropeller.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftPropeller.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftPropellerAi.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Prefabs/AircraftPropellerAi.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneAiControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneAiControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneAudio.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneAudio.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneControlSurfaceAnimator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneControlSurfaceAnimator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplanePropellerAnimator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplanePropellerAnimator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneUserControl2Axis.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneUserControl2Axis.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneUserControl4Axis.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneUserControl4Axis.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/JetParticleEffect.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/JetParticleEffect.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/LandingGear.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Scripts/LandingGear.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftFuselageNormals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftFuselageNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftFuselageOcclusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftFuselageOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur01GreyAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur01GreyAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur01WhiteAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur01WhiteAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur02GreyAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur02GreyAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur02WhiteAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur02WhiteAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur03GreyAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur03GreyAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur03WhiteAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur03WhiteAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftWingsJetNormals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftWingsJetNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftWingsJetOcclusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftWingsJetOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftWingsPropellerNormals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftWingsPropellerNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftWingsPropellerOcclusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftWingsPropellerOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/AccelerationHigh.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/AccelerationHigh.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/AccelerationLow.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/AccelerationLow.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/DecelerationHigh.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/DecelerationHigh.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/DecelerationLow.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/DecelerationLow.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/Skid.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/Skid.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/CarGuidelines.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/CarGuidelines.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/ParticleBurnout.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/ParticleBurnout.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/ParticleSmokeWhite.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/ParticleSmokeWhite.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarBodyGrey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarBodyGrey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarBodyWhite.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarBodyWhite.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightCoversGrey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightCoversGrey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightCoversWhite.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightCoversWhite.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightGlows.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarLightGlows.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarWheelGrey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarWheelGrey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarWheelWhite.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/SkyCarWheelWhite.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/TrailSkid.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Materials/TrailSkid.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Models/SkyCar.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Models/SkyCar.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Prefabs/Car.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Prefabs/Car.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Prefabs/CarWaypointBased.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Prefabs/CarWaypointBased.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Prefabs/SkidTrail.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Prefabs/SkidTrail.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/BrakeLight.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/BrakeLight.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/CarAIControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/CarAIControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/CarController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/CarController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/CarSelfRighting.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/CarSelfRighting.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/Mudguard.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/Mudguard.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/SkidTrail.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/SkidTrail.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/Suspension.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/Suspension.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/WheelEffects.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Scripts/WheelEffects.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Shaders/DiffuseReflectiveShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Shaders/DiffuseReflectiveShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Shaders/ReflectiveDiffuseSpec.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Shaders/ReflectiveDiffuseSpec.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Shaders/ReflectiveDiffuseSpecTransp.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Shaders/ReflectiveDiffuseSpecTransp.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/ParticleCloudWhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/ParticleCloudWhite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkidTrailAlbedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkidTrailAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarBodyNormals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarBodyNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarBodyOcclusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarBodyOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarLightsGlowAlpha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarLightsGlowAlpha.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarWheelNormals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarWheelNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarWheelOcclusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarWheelOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/SD_unitychan/Animations/New Animator Controller.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/SD_unitychan/Animations/New Animator Controller.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/UnityChanController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChanController.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,78 +956,74 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/CameraControlled.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/UnityChanController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="240">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
               <folding>
-                <marker date="1566009028491" expanded="true" signature="6:124" ph="..." />
-                <marker date="1566009028491" expanded="true" signature="171:1058" ph="{...}" />
-                <marker date="1566009028491" expanded="true" signature="436:706" ph="{...}" />
-                <marker date="1566009028491" expanded="true" signature="767:1056" ph="{...}" />
+                <marker date="1566033141214" expanded="false" signature="6:139" ph="..." />
+                <marker date="1566033141214" expanded="true" signature="189:2728" ph="{...}" />
+                <marker date="1566033141214" expanded="true" signature="532:589" ph="{...}" />
+                <marker date="1566033141214" expanded="true" signature="701:741" ph="{...}" />
+                <marker date="1566033141214" expanded="true" signature="776:840" ph="{...}" />
+                <marker date="1566033141214" expanded="true" signature="870:976" ph="{...}" />
+                <marker date="1566033141214" expanded="true" signature="1004:1108" ph="{...}" />
+                <marker date="1566033141214" expanded="true" signature="1127:2721" ph="{...}" />
+                <marker date="1566033141214" expanded="true" signature="1305:1696" ph="{...}" />
+                <marker date="1566033141214" expanded="true" signature="1342:1503" ph="{...}" />
+                <marker date="1566033141214" expanded="true" signature="1520:1685" ph="{...}" />
+                <marker date="1566033141214" expanded="true" signature="1738:2633" ph="{...}" />
+                <marker date="1566033141214" expanded="true" signature="2646:2715" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/UnityChanController.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/EnemyController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="83" column="29" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
+            <state relative-caret-position="375">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
               <folding>
-                <marker date="1566021366240" expanded="false" signature="6:139" ph="..." />
-                <marker date="1566021366240" expanded="true" signature="189:3881" ph="{...}" />
-                <marker date="1566021366240" expanded="true" signature="532:589" ph="{...}" />
-                <marker date="1566021366240" expanded="true" signature="641:2653" ph="/* private void Update () { ... */" />
-                <marker date="1566021366240" expanded="true" signature="2673:3874" ph="{...}" />
-                <marker date="1566021366240" expanded="true" signature="2861:3786" ph="{...}" />
-                <marker date="1566021366240" expanded="true" signature="3799:3868" ph="{...}" />
+                <marker date="1566033704695" expanded="true" signature="6:92" ph="..." />
+                <marker date="1566033704695" expanded="true" signature="138:942" ph="{...}" />
+                <marker date="1566033704695" expanded="true" signature="282:339" ph="{...}" />
+                <marker date="1566033704695" expanded="true" signature="367:424" ph="{...}" />
+                <marker date="1566033704695" expanded="true" signature="464:940" ph="{...}" />
+                <marker date="1566033704695" expanded="true" signature="684:852" ph="{...}" />
+                <marker date="1566033704695" expanded="true" signature="865:934" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlink.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/triggertouch.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="375">
+              <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
               <folding>
-                <marker date="1564744659097" expanded="true" signature="0:59" ph="/* AutoBlink.cs ... */" />
-                <marker date="1564744659097" expanded="true" signature="66:104" ph="..." />
-                <marker date="1564744659097" expanded="true" signature="125:2836" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="167:2834" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="815:864" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="925:1105" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="933:1101" ph="/* ref_SMR_EYE_DEF = GameObject.Find(&quot;EYE_DEF&quot;).GetComponent&lt;SkinnedMeshRenderer&gt;(); ... */" />
-                <marker date="1564744659097" expanded="true" signature="1157:1242" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="1277:1339" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="1394:1724" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="1421:1482" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="1504:1720" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="1572:1629" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="1673:1715" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="1746:2074" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="1768:2070" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="1787:2065" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="1813:2030" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="2098:2219" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="2247:2376" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="2399:2518" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="2566:2831" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="2601:2827" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="2685:2751" ph="{...}" />
-                <marker date="1564744659097" expanded="true" signature="2715:2745" ph="{...}" />
+                <marker date="1566033412111" expanded="false" signature="6:78" ph="..." />
+                <marker date="1566033412111" expanded="true" signature="121:716" ph="{...}" />
+                <marker date="1566033412111" expanded="true" signature="238:335" ph="{...}" />
+                <marker date="1566033412111" expanded="true" signature="422:550" ph="{...}" />
+                <marker date="1566033412111" expanded="true" signature="468:543" ph="{...}" />
+                <marker date="1566033412111" expanded="true" signature="602:714" ph="{...}" />
+                <marker date="1566033412111" expanded="true" signature="648:708" ph="{...}" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/License!.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlinkforSD.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
+            <state relative-caret-position="525">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <marker date="1564741799535" expanded="true" signature="0:74" ph="/* AutoBlinkforSD.cs ... */" />
@@ -121,7 +1060,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/SpringManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
+            <state relative-caret-position="870">
               <caret line="71" selection-start-line="71" selection-end-line="71" />
               <folding>
                 <marker date="1406117089000" expanded="true" signature="0:244" ph="/* SpingManager.cs for unity-chan! ... */" />
@@ -147,7 +1086,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="480">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <marker date="1406117089000" expanded="false" signature="6:44" ph="..." />
@@ -173,7 +1112,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCharacterController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5790">
+            <state relative-caret-position="5325">
               <caret line="447" selection-start-line="447" selection-end-line="447" />
               <folding>
                 <marker date="1546854641000" expanded="false" signature="41:120" ph="..." />
@@ -301,7 +1240,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
+            <state relative-caret-position="885">
               <caret line="69" column="56" selection-start-line="69" selection-start-column="56" selection-end-line="69" selection-end-column="56" />
               <folding>
                 <marker date="1520267503000" expanded="false" signature="6:78" ph="..." />
@@ -323,7 +1262,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1065">
+            <state relative-caret-position="1020">
               <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
               <folding>
                 <marker date="1520267758000" expanded="true" signature="72:7194" ph="{...}" />
@@ -374,16 +1313,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlinkforSD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EnemyController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/SpringManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/CameraControlled.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCharacterController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlink.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/RPGCharacterInputControllerFREE.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlinkforSD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/triggertouch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CameraControlled.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlink.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UnityChanController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -394,6 +1335,8 @@
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs" />
         <option value="$PROJECT_DIR$/Assets/CameraControlled.cs" />
         <option value="$PROJECT_DIR$/Assets/UnityChanController.cs" />
+        <option value="$PROJECT_DIR$/Assets/triggertouch.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnemyController.cs" />
       </list>
     </option>
   </component>
@@ -472,12 +1415,13 @@
       <workItem from="1565848346298" duration="2595000" />
       <workItem from="1565914698763" duration="10334000" />
       <workItem from="1566005329684" duration="4325000" />
-      <workItem from="1566021144100" duration="288000" />
+      <workItem from="1566021144100" duration="1261000" />
+      <workItem from="1566022930025" duration="5340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30850000" />
+    <option name="totallyTimeSpent" value="37163000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -490,7 +1434,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.56626505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -605,6 +1548,8 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/AutoCam.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Editor/Water/Water4/GerstnerDisplaceEditor.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlink.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -612,6 +1557,7 @@
           <folding>
             <marker date="1564744659097" expanded="true" signature="0:59" ph="/* AutoBlink.cs ... */" />
             <marker date="1564744659097" expanded="true" signature="66:104" ph="..." />
+            <marker date="1564744659097" expanded="true" signature="125:2836" ph="{...}" />
             <marker date="1564744659097" expanded="true" signature="167:2834" ph="{...}" />
             <marker date="1564744659097" expanded="true" signature="815:864" ph="{...}" />
             <marker date="1564744659097" expanded="true" signature="925:1105" ph="{...}" />
@@ -640,11 +1586,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlinkforSD.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
+        <state relative-caret-position="525">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
             <marker date="1564741799535" expanded="true" signature="0:74" ph="/* AutoBlinkforSD.cs ... */" />
             <marker date="1564741799535" expanded="true" signature="81:119" ph="..." />
+            <marker date="1564741799535" expanded="true" signature="140:2949" ph="{...}" />
             <marker date="1564741799535" expanded="true" signature="187:2947" ph="{...}" />
             <marker date="1564741799535" expanded="true" signature="931:980" ph="{...}" />
             <marker date="1564741799535" expanded="true" signature="1041:1221" ph="{...}" />
@@ -674,11 +1621,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/SpringManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
+        <state relative-caret-position="870">
           <caret line="71" selection-start-line="71" selection-end-line="71" />
           <folding>
             <marker date="1406117089000" expanded="true" signature="0:244" ph="/* SpingManager.cs for unity-chan! ... */" />
             <marker date="1406117089000" expanded="false" signature="251:289" ph="..." />
+            <marker date="1406117089000" expanded="true" signature="310:2008" ph="{...}" />
             <marker date="1406117089000" expanded="true" signature="356:2006" ph="{...}" />
             <marker date="1406117089000" expanded="true" signature="362:446" ph="/* Kobayashi ... */" />
             <marker date="1406117089000" expanded="true" signature="681:713" ph="{...}" />
@@ -697,7 +1645,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="480">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <marker date="1406117089000" expanded="false" signature="6:44" ph="..." />
@@ -721,7 +1669,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCharacterController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5790">
+        <state relative-caret-position="5325">
           <caret line="447" selection-start-line="447" selection-end-line="447" />
           <folding>
             <marker date="1546854641000" expanded="false" signature="41:120" ph="..." />
@@ -847,7 +1795,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
+        <state relative-caret-position="885">
           <caret line="69" column="56" selection-start-line="69" selection-start-column="56" selection-end-line="69" selection-end-column="56" />
           <folding>
             <marker date="1520267503000" expanded="false" signature="6:78" ph="..." />
@@ -867,7 +1815,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
+        <state relative-caret-position="1020">
           <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
           <folding>
             <marker date="1520267758000" expanded="true" signature="72:7194" ph="{...}" />
@@ -906,18 +1854,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/License!.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UnityChanController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="83" column="29" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
+        <state relative-caret-position="240">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
           <folding>
-            <marker date="1566021366240" expanded="false" signature="6:139" ph="..." />
-            <marker date="1566021366240" expanded="true" signature="189:3881" ph="{...}" />
-            <marker date="1566021366240" expanded="true" signature="532:589" ph="{...}" />
-            <marker date="1566021366240" expanded="true" signature="641:2653" ph="/* private void Update () { ... */" />
-            <marker date="1566021366240" expanded="true" signature="2673:3874" ph="{...}" />
-            <marker date="1566021366240" expanded="true" signature="2861:3786" ph="{...}" />
-            <marker date="1566021366240" expanded="true" signature="3799:3868" ph="{...}" />
+            <marker date="1566033141214" expanded="false" signature="6:139" ph="..." />
+            <marker date="1566033141214" expanded="true" signature="189:2728" ph="{...}" />
+            <marker date="1566033141214" expanded="true" signature="532:589" ph="{...}" />
+            <marker date="1566033141214" expanded="true" signature="701:741" ph="{...}" />
+            <marker date="1566033141214" expanded="true" signature="776:840" ph="{...}" />
+            <marker date="1566033141214" expanded="true" signature="870:976" ph="{...}" />
+            <marker date="1566033141214" expanded="true" signature="1004:1108" ph="{...}" />
+            <marker date="1566033141214" expanded="true" signature="1127:2721" ph="{...}" />
+            <marker date="1566033141214" expanded="true" signature="1305:1696" ph="{...}" />
+            <marker date="1566033141214" expanded="true" signature="1342:1503" ph="{...}" />
+            <marker date="1566033141214" expanded="true" signature="1520:1685" ph="{...}" />
+            <marker date="1566033141214" expanded="true" signature="1738:2633" ph="{...}" />
+            <marker date="1566033141214" expanded="true" signature="2646:2715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/triggertouch.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+          <folding>
+            <marker date="1566033412111" expanded="false" signature="6:78" ph="..." />
+            <marker date="1566033412111" expanded="true" signature="121:716" ph="{...}" />
+            <marker date="1566033412111" expanded="true" signature="238:335" ph="{...}" />
+            <marker date="1566033412111" expanded="true" signature="422:550" ph="{...}" />
+            <marker date="1566033412111" expanded="true" signature="468:543" ph="{...}" />
+            <marker date="1566033412111" expanded="true" signature="602:714" ph="{...}" />
+            <marker date="1566033412111" expanded="true" signature="648:708" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/EnemyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <marker date="1566033704695" expanded="true" signature="6:92" ph="..." />
+            <marker date="1566033704695" expanded="true" signature="138:942" ph="{...}" />
+            <marker date="1566033704695" expanded="true" signature="282:339" ph="{...}" />
+            <marker date="1566033704695" expanded="true" signature="367:424" ph="{...}" />
+            <marker date="1566033704695" expanded="true" signature="464:940" ph="{...}" />
+            <marker date="1566033704695" expanded="true" signature="684:852" ph="{...}" />
+            <marker date="1566033704695" expanded="true" signature="865:934" ph="{...}" />
           </folding>
         </state>
       </provider>
