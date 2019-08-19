@@ -9,14 +9,21 @@ public class UnityChanController : MonoBehaviour
 {    
     private Vector3 lastMousePosition;
     //回転の計算用
+    [SerializeField]
+    private CreateSwordTrail swordTrail;
+
     private Vector3 newAngle = new Vector3(0, 0, 0);
     private float   m_turnSpeed = 0.0f;
     private float   m_turnSpeedScale    = 180.0f;
     private float Horizontal;
     private float Vertical;
     public GameObject obj;
+    private bool isrunning1 = false;
+    private bool isrunning2 = false;
 
-    public Animator animator;
+    private bool isrunning3 = false;
+    
+    private Animator animator;
 
     private void Start()
     {
@@ -31,19 +38,55 @@ public class UnityChanController : MonoBehaviour
     }
     public void UnityChanrolling()
     {
-        Debug.Log("Yes");
         isrolling = true;
     }
 
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Weapon2"))
+        {
+            var transform1 = transform;
+            transform1.position = transform1.position - (transform1.forward * 1f);
+            StartCoroutine(Coroutine3());
+        }
+    }
+
+    IEnumerator Coroutine3()
+    {
+        if (isrunning1)
+        {
+            yield break;
+        }
+        Debug.Log("aaaa");
+        animator.SetBool("isdameged",true);
+        isrunning1 = true;
+        Debug.Log(animator.GetBool("isdameged"));
+        yield return new WaitForSeconds(0.4f);
+        animator.SetBool("isdameged",false);
+        isrunning1 = false;
+    }
     IEnumerator Coroutine2()
     {
-        yield return new WaitForSeconds(1.0f);
+        if (isrunning2)
+        {
+            yield break;
+        }
+        swordTrail.SetSwordTrail(true);
+        animator.SetBool("isattacking",true);
+        isrunning2 = true;
+        yield return new WaitForSeconds(2.0f);
         animator.SetBool("isattacking",false);
+        swordTrail.SetSwordTrail(false);
+        isrunning2 = false;
     }
     IEnumerator Coroutine()
     {
+        if(isrunning3) yield break;
+        isrunning3 = true;
+
         yield return new WaitForSeconds(0.2f);
         animator.SetBool("isrolling",false);
+        isrunning3 = false;
     }
 
     void Update()
@@ -60,8 +103,9 @@ public class UnityChanController : MonoBehaviour
             }
             else
             {
-                animator.SetBool("isattacking",true);
+                
                 isattacking = false;
+                
                 StartCoroutine(Coroutine2());
             }
 
@@ -76,7 +120,7 @@ public class UnityChanController : MonoBehaviour
             float angle = Vector3.Angle (vec,  transform.root.gameObject.transform.forward);
             var axis = Vector3.Cross( transform.root.gameObject.transform.forward,vec  );
             if (axis.y < 0) angle *= -1;
-            if (angle2 > 45&&angle2<180) angle *= -1;
+            if (angle2 > 0&&angle2<180) angle *= -1;
             transform.rotation = Quaternion.AngleAxis(angle+angle2,transform.up);
             animator.SetBool("isrunning",true);
             transform.Translate(0,0,vec.magnitude*0.05f);

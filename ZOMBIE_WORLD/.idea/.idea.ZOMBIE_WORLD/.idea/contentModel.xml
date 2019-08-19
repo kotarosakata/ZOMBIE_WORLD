@@ -8,7 +8,10 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="CameraControlled.cs" t="Include" />
+        <e p="CreateSwordTrail.cs" t="Include" />
         <e p="EnemyController.cs" t="Include" />
+        <e p="HPbarController.cs" t="Include" />
+        <e p="Parameter.cs" t="Include" />
         <e p="README_SD_UnityChan.txt" t="Include" />
         <e p="RPG Character Animation Pack FREE" t="Include">
           <e p="Code" t="Include">

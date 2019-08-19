@@ -17,7 +17,6 @@ public class CameraControlled : MonoBehaviour
         unityChanController = UnityChan.GetComponent<UnityChanController>();
         var position = obj.transform.position;
         offset = transform.position - position;
-        Debug.Log(offset);
         offset = gameObject.transform.position - position;
     }
     // Update is called once per frame
