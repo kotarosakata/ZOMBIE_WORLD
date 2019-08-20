@@ -22,7 +22,7 @@ public class UnityChanController : MonoBehaviour
     private bool isrunning2 = false;
 
     private bool isrunning3 = false;
-    
+    public Collider collider;
     private Animator animator;
 
     private void Start()
@@ -71,6 +71,8 @@ public class UnityChanController : MonoBehaviour
         {
             yield break;
         }
+
+        collider.enabled = true;
         swordTrail.SetSwordTrail(true);
         animator.SetBool("isattacking",true);
         isrunning2 = true;
@@ -78,6 +80,7 @@ public class UnityChanController : MonoBehaviour
         animator.SetBool("isattacking",false);
         swordTrail.SetSwordTrail(false);
         isrunning2 = false;
+        collider.enabled = false;
     }
     IEnumerator Coroutine()
     {

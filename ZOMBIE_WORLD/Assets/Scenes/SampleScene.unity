@@ -207,7 +207,7 @@ BoxCollider:
   m_GameObject: {fileID: 116890862}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 0.0868951, y: 1.6475219, z: 0.16822214}
   m_Center: {x: -0.00016045375, y: -0.4736218, z: -0.00000009099375}
@@ -4013,6 +4013,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   swordTrail: {fileID: 1018089286}
   obj: {fileID: 963194225}
+  collider: {fileID: 116890866}
 --- !u!1 &587022358
 GameObject:
   m_ObjectHideFlags: 0

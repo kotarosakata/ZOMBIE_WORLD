@@ -11,6 +11,9 @@
         <e p="CreateSwordTrail.cs" t="Include" />
         <e p="EnemyController.cs" t="Include" />
         <e p="HPbarController.cs" t="Include" />
+        <e p="MS_WeaponVol01" t="Include">
+          <e p="readme.txt" t="Include" />
+        </e>
         <e p="Parameter.cs" t="Include" />
         <e p="README_SD_UnityChan.txt" t="Include" />
         <e p="RPG Character Animation Pack FREE" t="Include">
