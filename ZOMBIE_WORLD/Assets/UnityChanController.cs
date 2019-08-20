@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityStandardAssets.CrossPlatformInput;
 
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UnityChanController : MonoBehaviour
 {    
@@ -20,14 +21,19 @@ public class UnityChanController : MonoBehaviour
     public GameObject obj;
     private bool isrunning1 = false;
     private bool isrunning2 = false;
-
+    public Text text;
+    private PlayerParameter parameter;
     private bool isrunning3 = false;
     public Collider collider;
     private Animator animator;
-
+    public Image hpbar;
     private void Start()
     {
+         parameter = new PlayerParameter();
+        parameter.PlayerParameterSet();
+        text.text = "" + parameter.HP;
         animator = GetComponent<Animator>();
+        
     }
 
     private bool isrolling = false;
@@ -57,6 +63,10 @@ public class UnityChanController : MonoBehaviour
         {
             yield break;
         }
+
+        parameter.HP -= 10;
+        text.text = "" + parameter.HP;
+        hpbar.fillAmount -= 0.1f;
         Debug.Log("aaaa");
         animator.SetBool("isdameged",true);
         isrunning1 = true;
