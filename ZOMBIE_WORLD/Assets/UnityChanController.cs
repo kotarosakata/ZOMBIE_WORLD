@@ -27,6 +27,7 @@ public class UnityChanController : MonoBehaviour
     public Collider collider;
     private Animator animator;
     public Image hpbar;
+    public bool die = false;
     private void Start()
     {
          parameter = new PlayerParameter();
@@ -74,6 +75,20 @@ public class UnityChanController : MonoBehaviour
         yield return new WaitForSeconds(0.4f);
         animator.SetBool("isdameged",false);
         isrunning1 = false;
+        if (parameter.HP < 1) died();
+    }
+
+    void died()
+    {
+        die = true;
+        
+        isrunning1 = true;
+        isrunning2 = true;
+        isrunning3 = true;
+        animator.SetBool("isdied",true);
+        collider.enabled = false;
+        swordTrail.SetSwordTrail(false);
+        text.text = "GAMEOVER";
     }
     IEnumerator Coroutine2()
     {
