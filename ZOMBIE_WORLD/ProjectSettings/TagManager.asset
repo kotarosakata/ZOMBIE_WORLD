@@ -7,6 +7,10 @@ TagManager:
   - Weapon1
   - Weapon2
   - Knight
+  - Button1
+  - Button2
+  - Button3
+  - Button4
   layers:
   - Default
   - TransparentFX
