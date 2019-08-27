@@ -8,8 +8,9 @@ OcclusionCullingSettings:
     smallestOccluder: 5
     smallestHole: 0.25
     backfaceThreshold: 100
-  m_SceneGUID: 00000000000000000000000000000000
-  m_OcclusionCullingData: {fileID: 0}
+  m_SceneGUID: 9fc0d4010bbf28b4594072e72b8655ab
+  m_OcclusionCullingData: {fileID: 36300000, guid: 172a231953b664e4f8f2ba253824106c,
+    type: 2}
 --- !u!104 &2
 RenderSettings:
   m_ObjectHideFlags: 0
@@ -3338,6 +3339,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4811720465046568676, guid: 273ccbbe1c99bc1488fdda6b89f6b87d,
+        type: 3}
+      propertyPath: text
+      value: 
+      objectReference: {fileID: 2101024336}
+    - target: {fileID: 4811720465046568679, guid: 273ccbbe1c99bc1488fdda6b89f6b87d,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 1.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 273ccbbe1c99bc1488fdda6b89f6b87d, type: 3}
 --- !u!1001 &530251006
@@ -4430,7 +4441,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 5.7e-44}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -7198,7 +7209,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 72199bd41a38f7941a24763947484722, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  texted: {fileID: 1624488630}
   button: {fileID: 1690976660422237394}
 --- !u!4 &1087680974 stripped
 Transform:
@@ -7918,7 +7928,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 38a4e93ac4095f74180e683be2700832, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 898e1651ad752004c99c0353d1a40741, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7947,7 +7957,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 72199bd41a38f7941a24763947484722, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  texted: {fileID: 1624488630}
   button: {fileID: 1690976660422237394}
 --- !u!4 &1245721666 stripped
 Transform:
@@ -12538,7 +12547,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 72199bd41a38f7941a24763947484722, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  texted: {fileID: 1624488630}
   button: {fileID: 1690976660422237394}
 --- !u!4 &1974748258 stripped
 Transform:
@@ -14049,7 +14057,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 72199bd41a38f7941a24763947484722, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  texted: {fileID: 1624488630}
   button: {fileID: 1690976660422237394}
 --- !u!1001 &2135766165
 PrefabInstance:
@@ -14361,7 +14368,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a70159aa99cc1974398e4fb60870e8b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  texted: {fileID: 1624488630}
   button: {fileID: 0}
   unityChanController: {fileID: 587022357}
   text: {fileID: 559063490}
@@ -14428,6 +14434,11 @@ PrefabInstance:
       propertyPath: text
       value: 
       objectReference: {fileID: 1024635439}
+    - target: {fileID: 3343518571413387892, guid: 3ac322cccc9d18e49afeda1ce0f9b370,
+        type: 3}
+      propertyPath: text2
+      value: 
+      objectReference: {fileID: 1624488630}
     - target: {fileID: 3343518573123255806, guid: 3ac322cccc9d18e49afeda1ce0f9b370,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14497,6 +14508,16 @@ PrefabInstance:
         type: 3}
       propertyPath: far clip plane
       value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343518571413387896, guid: 3ac322cccc9d18e49afeda1ce0f9b370,
+        type: 3}
+      propertyPath: m_Height
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343518571413387896, guid: 3ac322cccc9d18e49afeda1ce0f9b370,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 0.75
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3ac322cccc9d18e49afeda1ce0f9b370, type: 3}

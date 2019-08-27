@@ -4,11 +4,370 @@
     <list default="true" id="c8d2e603-0b58-4b0e-b267-b726caf160a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/README_SD_UnityChan.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/README_SD_UnityChan.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/CameraController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/CameraController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/GUIControlsFREE.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/GUIControlsFREE.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/IKHandsFREE.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/IKHandsFREE.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/RPGCharacterControllerFREE.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/RPGCharacterControllerFREE.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/RPGCharacterInputControllerFREE.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/RPGCharacterInputControllerFREE.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/RPGCharacterMovementControllerFREE.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/RPGCharacterMovementControllerFREE.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/RPGCharacterWeaponControllerFREE.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/RPGCharacterWeaponControllerFREE.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Camera.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Camera.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Controller.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Controller.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Controls.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Controls.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Controls2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Controls2.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Controls3.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Controls3.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ControlsCamera.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ControlsCamera.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ControlsCamera2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ControlsCamera2.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Grid.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Grid.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Grid.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Grid.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Readme.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/Bloom.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/Bloom.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/ImageEffectBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/ImageEffectBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/ImageEffects.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/ImageEffects.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/PostEffectsBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/PostEffectsBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/PostEffectsHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/PostEffectsHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/Quads.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/Quads.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/ScreenOverlay.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/ScreenOverlay.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/Triangles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Scripts/Triangles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/BlendModesOverlay.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/BlendModesOverlay.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/BlurEffectConeTaps.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/BlurEffectConeTaps.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/CameraMotionBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/CameraMotionBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/CameraMotionBlurDX11.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/CameraMotionBlurDX11.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ChromaticAberrationShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ChromaticAberrationShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ColorCorrection3DLut.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ColorCorrection3DLut.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ColorCorrectionCurves.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ColorCorrectionCurves.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ColorCorrectionEffect.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ColorCorrectionEffect.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ColorCorrectionSelective.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ColorCorrectionSelective.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ContrastComposite.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ContrastComposite.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ConvertDepth.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ConvertDepth.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/CreaseApply.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/CreaseApply.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/EdgeDetectNormals.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/EdgeDetectNormals.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/FisheyeShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/FisheyeShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/GlobalFog.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/GlobalFog.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/GrayscaleEffect.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/GrayscaleEffect.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/MotionBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/MotionBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/MotionBlurClear.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/MotionBlurClear.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/NoiseAndGrain.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/NoiseAndGrain.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/NoiseAndGrainDX11.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/NoiseAndGrainDX11.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/NoiseEffectShaderRGB.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/NoiseEffectShaderRGB.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/NoiseEffectShaderYUV.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/NoiseEffectShaderYUV.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/PrepareSunShaftsBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/PrepareSunShaftsBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/RadialBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/RadialBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/SSAOShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/SSAOShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/SepiaToneEffect.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/SepiaToneEffect.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ShowAlphaChannel.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/ShowAlphaChannel.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/SimpleClear.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/SimpleClear.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/SunShaftsComposite.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/SunShaftsComposite.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/Tonemapper.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/Tonemapper.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/TwirlEffect.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/TwirlEffect.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/VignettingShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/VignettingShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/VortexEffect.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/VortexEffect.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/DLAA.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/DLAA.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/FXAA2.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/FXAA2.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/NFAA.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/NFAA.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/SSAA.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_Antialiasing/SSAA.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/Blend.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/Blend.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/VignetteShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_BloomAndFlares/VignetteShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/frag_ao.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/ImageEffects/Shaders/frag_ao.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Materials/Stage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Materials/Stage/Rock.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Materials/Stage/Rock.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Materials/Stage/Stage.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Materials/Stage/Stage.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Materials/Stage/Tree.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Materials/Stage/Tree.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Models/Stage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Models/Stage/Rock.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Models/Stage/Rock.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Models/Stage/Stage.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Models/Stage/Stage.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Models/Stage/Tree-Stump.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Models/Stage/Tree-Stump.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Models/Stage/Tree.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Models/Stage/Tree.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Prefabs/Stage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Prefabs/Stage/Level.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Prefabs/Stage/Level.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Prefabs/Stage/Rock.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Prefabs/Stage/Rock.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Prefabs/Stage/Tree-Stump.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Prefabs/Stage/Tree-Stump.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Target.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Target.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Target.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Target.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Target.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Target.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Target.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Target.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Textures/Stage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Textures/Stage/Rock.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Textures/Stage/Rock.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Textures/Stage/Stage.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Textures/Stage/Stage.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Textures/Stage/Tree.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Elements/Textures/Stage/Tree.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Materials/RPG-Character.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Materials/RPG-Character.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Models/Characters.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Models/Characters/RPG-Character-Blender.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Models/Characters/RPG-Character-Blender.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Models/Characters/RPG-Character-NoOutline.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Models/Characters/RPG-Character-NoOutline.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Models/Characters/RPG-Character.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Models/Characters/RPG-Character.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Models/Weapons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Models/Weapons/2Hand-Sword-NoOutline.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Models/Weapons/2Hand-Sword-NoOutline.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Models/Weapons/2Hand-Sword.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Models/Weapons/2Hand-Sword.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Prefabs/RPG-Character-Animation-Controller.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Prefabs/RPG-Character-Animation-Controller.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Prefabs/RPG-Character-Avatar.ht" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Prefabs/RPG-Character-Avatar.ht.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Prefabs/RPG-Character-Upperbody-AvatarMask.mask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Prefabs/RPG-Character-Upperbody-AvatarMask.mask.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Prefabs/RPG-Character.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Prefabs/RPG-Character.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Project Settings.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Project Settings.zip.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/RPGCharacterMecanimAnimationPackReadMe.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/RPGCharacterMecanimAnimationPackReadMe.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Scenes/RPG-Character.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Scenes/RPG-Character.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Scenes/RPG-Character.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Scenes/RPG-Character/NavMesh.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Scenes/RPG-Character/NavMesh.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/BluePlastic.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/BluePlastic.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/Default.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/Default.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/GreenWall.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/GreenWall.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/GreyGrid.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/GreyGrid.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/GreyGridLarger.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/GreyGridLarger.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/LightBlueWall.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/LightBlueWall.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/NeonGreen.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/NeonGreen.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/OrangeWall.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/OrangeWall.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/PurpleWall.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/PurpleWall.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/RedWall.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/RedWall.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/ReflectiveOrange.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/ReflectiveOrange.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/Shiny.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Materials/Shiny.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Mesh.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Mesh/DemoZone.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Mesh/DemoZone.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Mesh/Platform.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Mesh/Platform.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Mesh/SphereDemoLevel.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Mesh/SphereDemoLevel.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Mesh/Staircase.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Mesh/Staircase.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/LowResTerrain.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/LowResTerrain.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/Moodie.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/Moodie/Test.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/Moodie/Test/TestZone.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/Moodie/Test/TestZone.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/Moodie/TestZoneMoodie.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/Moodie/TestZoneMoodie.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/SpaceZone.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/SpaceZone.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TerrainTest.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TerrainTest.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TestTerrain.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TestTerrain.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TestZone.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TestZone.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TestZone.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TestZone/LightmapSnapshot.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TestZone/LightmapSnapshot.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TestZone/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TestZone/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TestZone/SkyboxProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TestZone/SkyboxProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TestZoneRPGCharacter.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scenes/TestZoneRPGCharacter.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scripts/Gravity.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scripts/Gravity.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scripts/SimpleStateMachine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Scripts/SimpleStateMachine.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/BSPTree.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/BSPTree.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/BruteForceMesh.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/BruteForceMesh.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCharacterController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCharacterController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCollider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCollider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCollisionType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCollisionType.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperMath.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperMath.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperStateMachine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperStateMachine.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/DebugDraw.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/DebugDraw.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Math3d.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Math3d.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/README.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/SuperCharacterControllerV2_README.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/SuperCharacterControllerV2_README.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Textures/Tile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/Textures/Tile.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Textures/RPG-Character.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Textures/RPG-Character.psd.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityChan/SD_unitychan/Animations/New Animator Controller.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityChan/SD_unitychan/Animations/New Animator Controller.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,28 +377,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Script/EnemyController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1093">
-              <caret line="121" selection-start-line="121" selection-end-line="121" />
+            <state relative-caret-position="359">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
               <folding>
-                <marker date="1566818813298" expanded="false" signature="6:162" ph="..." />
-                <marker date="1566818813298" expanded="true" signature="208:3715" ph="{...}" />
-                <marker date="1566818813298" expanded="true" signature="653:875" ph="{...}" />
-                <marker date="1566818813298" expanded="true" signature="917:951" ph="{...}" />
-                <marker date="1566818813298" expanded="true" signature="986:1166" ph="{...}" />
-                <marker date="1566818813298" expanded="true" signature="1001:1042" ph="/* a==0 LV ... */" />
-                <marker date="1566818813298" expanded="true" signature="1193:1283" ph="{...}" />
-                <marker date="1566818813298" expanded="true" signature="1323:1907" ph="{...}" />
-                <marker date="1566818813298" expanded="true" signature="1585:1758" ph="{...}" />
-                <marker date="1566818813298" expanded="true" signature="1771:1901" ph="{...}" />
-                <marker date="1566818813298" expanded="true" signature="1957:2481" ph="{...}" />
-                <marker date="1566818813298" expanded="true" signature="2004:2475" ph="{...}" />
-                <marker date="1566818813298" expanded="true" signature="2514:2811" ph="{...}" />
-                <marker date="1566818813298" expanded="true" signature="2840:3034" ph="{...}" />
-                <marker date="1566818813298" expanded="true" signature="3070:3713" ph="{...}" />
-                <marker date="1566818813298" expanded="true" signature="3269:3678" ph="{...}" />
+                <marker date="1566892031384" expanded="false" signature="6:162" ph="..." />
+                <marker date="1566892031384" expanded="true" signature="208:3884" ph="{...}" />
+                <marker date="1566892031384" expanded="true" signature="696:918" ph="{...}" />
+                <marker date="1566892031384" expanded="true" signature="960:994" ph="{...}" />
+                <marker date="1566892031384" expanded="true" signature="1029:1209" ph="{...}" />
+                <marker date="1566892031384" expanded="true" signature="1044:1085" ph="/* a==0 LV ... */" />
+                <marker date="1566892031384" expanded="true" signature="1236:1326" ph="{...}" />
+                <marker date="1566892031384" expanded="true" signature="1366:1966" ph="{...}" />
+                <marker date="1566892031384" expanded="true" signature="1641:1815" ph="{...}" />
+                <marker date="1566892031384" expanded="true" signature="1828:1960" ph="{...}" />
+                <marker date="1566892031384" expanded="true" signature="2016:2587" ph="{...}" />
+                <marker date="1566892031384" expanded="true" signature="2063:2581" ph="{...}" />
+                <marker date="1566892031384" expanded="true" signature="2620:2917" ph="{...}" />
+                <marker date="1566892031384" expanded="true" signature="2946:3140" ph="{...}" />
+                <marker date="1566892031384" expanded="true" signature="3190:3882" ph="{...}" />
+                <marker date="1566892031384" expanded="true" signature="3387:3847" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -48,33 +407,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/CameraControlled.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
+            <state relative-caret-position="300">
               <caret line="27" column="97" selection-start-line="27" selection-start-column="97" selection-end-line="27" selection-end-column="97" />
               <folding>
-                <marker date="1566823439232" expanded="true" signature="6:146" ph="..." />
-                <marker date="1566823439232" expanded="true" signature="193:1050" ph="{...}" />
-                <marker date="1566823439232" expanded="true" signature="457:700" ph="{...}" />
-                <marker date="1566823439232" expanded="true" signature="761:1048" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/MainButtonController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <marker date="1566806204784" expanded="false" signature="6:100" ph="..." />
-                <marker date="1566806204784" expanded="true" signature="154:1107" ph="{...}" />
-                <marker date="1566806204784" expanded="true" signature="344:1104" ph="{...}" />
-                <marker date="1566806204784" expanded="true" signature="359:416" ph="/* 渡されたオブジェクト名で処理を分岐 ... */" />
-                <marker date="1566806204784" expanded="true" signature="458:588" ph="{...}" />
-                <marker date="1566806204784" expanded="true" signature="636:765" ph="{...}" />
-                <marker date="1566806204784" expanded="true" signature="812:888" ph="{...}" />
-                <marker date="1566806204784" expanded="true" signature="936:1012" ph="{...}" />
-                <marker date="1566806204784" expanded="true" signature="1017:1098" ph="{...}" />
+                <marker date="1566883738602" expanded="true" signature="6:146" ph="..." />
+                <marker date="1566883738602" expanded="true" signature="193:1050" ph="{...}" />
+                <marker date="1566883738602" expanded="true" signature="457:700" ph="{...}" />
+                <marker date="1566883738602" expanded="true" signature="761:1048" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -83,24 +422,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/Parameter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-241">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="555">
+              <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
               <folding>
-                <marker date="1566552587447" expanded="true" signature="6:78" ph="..." />
-                <marker date="1566552587447" expanded="true" signature="102:902" ph="{...}" />
-                <marker date="1566552587447" expanded="true" signature="365:585" ph="{...}" />
-                <marker date="1566552587447" expanded="true" signature="401:579" ph="{...}" />
-                <marker date="1566552587447" expanded="true" signature="622:899" ph="{...}" />
-                <marker date="1566552587447" expanded="true" signature="658:829" ph="{...}" />
-                <marker date="1566552587447" expanded="true" signature="851:893" ph="{...}" />
-                <marker date="1566552587447" expanded="true" signature="942:2150" ph="{...}" />
-                <marker date="1566552587447" expanded="true" signature="1561:1698" ph="{...}" />
-                <marker date="1566552587447" expanded="true" signature="1735:1756" ph="{...}" />
-                <marker date="1566552587447" expanded="true" signature="1788:2148" ph="{...}" />
-                <marker date="1566552587447" expanded="true" signature="1836:2141" ph="{...}" />
-                <marker date="1566552587447" expanded="true" signature="1888:2063" ph="{...}" />
-                <marker date="1566552587447" expanded="true" signature="1936:2049" ph="{...}" />
-                <marker date="1566552587447" expanded="true" signature="2080:2131" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="6:78" ph="..." />
+                <marker date="1566871655650" expanded="true" signature="102:876" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="365:586" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="401:580" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="623:873" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="659:803" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="825:867" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="916:2124" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="1535:1672" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="1709:1730" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="1762:2122" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="1810:2115" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="1862:2037" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="1910:2023" ph="{...}" />
+                <marker date="1566871655650" expanded="true" signature="2054:2105" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -109,39 +448,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/triggertouch.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+            <state relative-caret-position="630">
+              <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
               <folding>
-                <marker date="1566457377256" expanded="false" signature="6:92" ph="..." />
-                <marker date="1566457377256" expanded="true" signature="135:2043" ph="{...}" />
-                <marker date="1566457377256" expanded="true" signature="416:531" ph="{...}" />
-                <marker date="1566457377256" expanded="true" signature="619:1819" ph="{...}" />
-                <marker date="1566457377256" expanded="true" signature="644:1803" ph="{...}" />
-                <marker date="1566457377256" expanded="true" signature="698:1793" ph="{...}" />
-                <marker date="1566457377256" expanded="true" signature="780:1762" ph="{...}" />
-                <marker date="1566457377256" expanded="true" signature="829:980" ph="{...}" />
-                <marker date="1566457377256" expanded="true" signature="1086:1209" ph="/* Vector3 vec = gameObject.transform.GetChild(0).position; ... */" />
-                <marker date="1566457377256" expanded="true" signature="1518:1674" ph="{...}" />
-                <marker date="1566457377256" expanded="true" signature="1699:1744" ph="{...}" />
-                <marker date="1566457377256" expanded="true" signature="1868:1980" ph="{...}" />
-                <marker date="1566457377256" expanded="true" signature="1914:1974" ph="{...}" />
-                <marker date="1566457377256" expanded="true" signature="2008:2041" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ButtonController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-              <folding>
-                <marker date="1566803333657" expanded="true" signature="6:114" ph="..." />
-                <marker date="1566803333657" expanded="true" signature="161:561" ph="{...}" />
-                <marker date="1566803333657" expanded="true" signature="251:493" ph="{...}" />
-                <marker date="1566803333657" expanded="true" signature="285:374" ph="{...}" />
-                <marker date="1566803333657" expanded="true" signature="547:559" ph="{...}" />
+                <marker date="1566875867002" expanded="false" signature="6:92" ph="..." />
+                <marker date="1566875867002" expanded="true" signature="135:1994" ph="{...}" />
+                <marker date="1566875867002" expanded="true" signature="416:531" ph="{...}" />
+                <marker date="1566875867002" expanded="true" signature="619:1770" ph="{...}" />
+                <marker date="1566875867002" expanded="true" signature="644:1754" ph="{...}" />
+                <marker date="1566875867002" expanded="true" signature="698:1744" ph="{...}" />
+                <marker date="1566875867002" expanded="true" signature="780:1713" ph="{...}" />
+                <marker date="1566875867002" expanded="true" signature="829:980" ph="{...}" />
+                <marker date="1566875867002" expanded="true" signature="1086:1209" ph="/* Vector3 vec = gameObject.transform.GetChild(0).position; ... */" />
+                <marker date="1566875867002" expanded="true" signature="1518:1674" ph="{...}" />
+                <marker date="1566875867002" expanded="true" signature="1819:1931" ph="{...}" />
+                <marker date="1566875867002" expanded="true" signature="1865:1925" ph="{...}" />
+                <marker date="1566875867002" expanded="true" signature="1959:1992" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -150,7 +472,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
+            <state relative-caret-position="1710">
               <caret line="126" column="43" selection-start-line="126" selection-start-column="43" selection-end-line="126" selection-end-column="43" />
               <folding>
                 <marker date="1520267386000" expanded="true" signature="6:86" ph="..." />
@@ -177,34 +499,57 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/UnityChanController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="185" column="66" selection-start-line="185" selection-start-column="66" selection-end-line="185" selection-end-column="66" />
+            <state relative-caret-position="1890">
+              <caret line="146" column="26" selection-start-line="146" selection-start-column="26" selection-end-line="146" selection-end-column="26" />
               <folding>
-                <marker date="1566832944752" expanded="false" signature="6:161" ph="..." />
-                <marker date="1566832944752" expanded="true" signature="211:5230" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="911:1110" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="1146:1326" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="1161:1202" ph="/* a==0 LV ... */" />
-                <marker date="1566832944752" expanded="true" signature="1438:1487" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="1522:1560" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="1609:1847" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="1656:1841" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="1877:2250" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="1907:1952" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="2267:2505" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="2534:2959" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="2564:2609" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="2987:3183" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="3339:5223" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="3453:3628" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="3800:4172" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="3838:3999" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="4016:4161" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="4214:5135" ph="{...}" />
-                <marker date="1566832944752" expanded="true" signature="5148:5217" ph="{...}" />
+                <marker date="1566889441060" expanded="false" signature="6:174" ph="..." />
+                <marker date="1566889441060" expanded="true" signature="224:6119" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="1038:1237" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="1273:1453" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="1288:1329" ph="/* a==0 LV ... */" />
+                <marker date="1566889441060" expanded="true" signature="1567:1608" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="1650:1690" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="1725:1763" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="1812:2101" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="1860:2095" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="2131:2504" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="2161:2206" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="2521:2759" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="2788:3212" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="2818:2863" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="3240:3436" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="3466:3916" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="4072:6112" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="4186:4361" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="4547:5061" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="4585:4746" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="4779:4921" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="4938:5050" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="5103:6024" ph="{...}" />
+                <marker date="1566889441060" expanded="true" signature="6037:6106" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/MainButtonController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+              <folding>
+                <marker date="1566889712476" expanded="true" signature="6:100" ph="..." />
+                <marker date="1566889712476" expanded="true" signature="154:1162" ph="{...}" />
+                <marker date="1566889712476" expanded="true" signature="344:1159" ph="{...}" />
+                <marker date="1566889712476" expanded="true" signature="359:416" ph="/* 渡されたオブジェクト名で処理を分岐 ... */" />
+                <marker date="1566889712476" expanded="true" signature="458:588" ph="{...}" />
+                <marker date="1566889712476" expanded="true" signature="636:765" ph="{...}" />
+                <marker date="1566889712476" expanded="true" signature="812:943" ph="{...}" />
+                <marker date="1566889712476" expanded="true" signature="991:1067" ph="{...}" />
+                <marker date="1566889712476" expanded="true" signature="1072:1153" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -223,25 +568,24 @@
       <find>HP</find>
       <find>update</find>
       <find>De</find>
+      <find>text</find>
+      <find>gun</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/ButtonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/CameraControlled.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/MainButtonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/UnityChanController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/SpringManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCharacterController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/RPGCharacterInputControllerFREE.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlinkforSD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/FaceUpdate.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MainButtonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/triggertouch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Parameter.cs" root0="FORCE_HIGHLIGHTING" />
@@ -261,18 +605,20 @@
         <option value="$PROJECT_DIR$/Assets/triggertouch.cs" />
         <option value="$PROJECT_DIR$/Assets/EnemyController.cs" />
         <option value="$PROJECT_DIR$/Assets/UnityChanController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/triggertouch.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainButtonController.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Parameter.cs" />
         <option value="$PROJECT_DIR$/Assets/ButtonController.cs" />
-        <option value="$PROJECT_DIR$/Assets/MainButtonController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/EnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/triggertouch.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/CameraControlled.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/UnityChanController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/MainButtonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/EnemyController.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="367" />
+    <option name="y" value="-11" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -371,11 +717,15 @@
       <workItem from="1566795901755" duration="1124000" />
       <workItem from="1566798250049" duration="6762000" />
       <workItem from="1566817461617" duration="5491000" />
+      <workItem from="1566865259332" duration="592000" />
+      <workItem from="1566870492465" duration="5261000" />
+      <workItem from="1566880737494" duration="3814000" />
+      <workItem from="1566889652008" duration="2001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93036000" />
+    <option name="totallyTimeSpent" value="104704000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,7 +761,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Errors In Solution" order="3" visible="true" weight="0.3296" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.3296" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
@@ -461,34 +811,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/RPGCharacterInputControllerFREE.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <marker date="1546854747000" expanded="false" signature="6:44" ph="..." />
-            <marker date="1546854747000" expanded="true" signature="73:3089" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="138:3087" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="898:1008" ph="/// Input abstraction for easier asset updates using outside control schemes. ... " />
-            <marker date="1546854747000" expanded="true" signature="1024:1639" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="1655:1684" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="1701:1852" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="1856:1926" ph="/// Movement based off camera facing. ... " />
-            <marker date="1546854747000" expanded="true" signature="1984:2554" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="2482:2522" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="2583:2742" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="2683:2706" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="2706:2738" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="2774:2883" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="2824:2847" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="2847:2879" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="2914:3084" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="3025:3048" ph="{...}" />
-            <marker date="1546854747000" expanded="true" signature="3048:3080" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/RPGCharacterInputControllerFREE.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/AutoCam.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Editor/Water/Water4/GerstnerDisplaceEditor.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/UnityChan/Scripts/AutoBlink.cs">
@@ -679,132 +1002,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCharacterController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="447" selection-start-line="447" selection-end-line="447" />
-          <folding>
-            <marker date="1546854641000" expanded="false" signature="41:120" ph="..." />
-            <marker date="1546854641000" expanded="true" signature="122:325" ph="/// Custom character controller, to be used by attaching the component to an object ... " />
-            <marker date="1546854641000" expanded="true" signature="379:30833" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="814:1044" ph="/// Describes the Transform of the object we are standing on as well as it's CollisionType, as well ... " />
-            <marker date="1546854641000" expanded="true" signature="1090:1831" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="1565:1825" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="1917:2085" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="2443:2565" ph="/// Total height of the controller from the bottom of the feet to the top of the head ... " />
-            <marker date="1546854641000" expanded="true" signature="3778:5010" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="4245:4390" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="5029:5768" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="5044:5183" ph="/* If we are using a fixed timestep, ensure we run the main update loop ... */" />
-            <marker date="1546854641000" expanded="true" signature="5262:5371" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="5384:5762" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="5480:5627" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="5656:5752" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="5815:5888" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="5913:7232" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="7264:7402" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="7408:7657" ph="/// Prevents the player from walking up slopes of a larger angle than the object's SlopeLimit. ... " />
-            <marker date="1546854641000" expanded="true" signature="7679:9121" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="7838:9092" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="8867:8962" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="8979:9056" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="9147:9241" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="9275:9312" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="9347:9385" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="9421:9463" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="9500:9543" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="9573:9610" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="9616:9824" ph="/// Check if any of the CollisionSpheres are colliding with any walkable objects in the world. ... " />
-            <marker date="1546854641000" expanded="true" signature="9876:13415" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="9986:13263" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="10120:13241" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="10411:10475" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="10764:13227" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="11401:11892" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="11502:11630" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="11659:11870" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="11917:12028" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="12876:13157" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="13337:13409" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="13453:13677" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="13581:13671" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="13718:14036" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="13820:14030" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="14076:14319" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="14143:14274" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="14344:14823" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="14411:14817" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="14454:14807" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="14572:14793" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="14882:15068" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="15115:15199" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="15246:15332" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="15378:15425" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="15478:15528" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="15569:15615" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="15645:30831" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="15779:15937" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="15970:16378" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="16224:16368" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="17062:17536" ph="/// Scan the surface below us for ground. Follow up the initial scan with subsequent scans ... " />
-            <marker date="1546854641000" expanded="true" signature="17594:24302" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="18095:23092" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="18247:18340" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="18453:18645" ph="/* By reducing the initial SphereCast's radius by Tolerance, our casted sphere no longer fits with ... */" />
-            <marker date="1546854641000" expanded="true" signature="18805:18941" ph="/* If we are standing on a perfectly flat surface, we cannot be either on an edge, ... */" />
-            <marker date="1546854641000" expanded="true" signature="19111:19175" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="19193:19358" ph="/* As we are standing on an edge, we need to retrieve the normals of the two ... */" />
-            <marker date="1546854641000" expanded="true" signature="20253:20426" ph="/* If we are currently standing on ground that should be counted as a wall, ... */" />
-            <marker date="1546854641000" expanded="true" signature="20503:21447" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="20956:21429" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="21113:21289" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="21318:21407" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="21465:21717" ph="/* If we are currently standing on a ledge then the face nearest the center of the ... */" />
-            <marker date="1546854641000" expanded="true" signature="21830:23078" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="21980:22076" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="22098:22237" ph="/* We contacted the wall of the ledge, rather than the landing. Raycast down ... */" />
-            <marker date="1546854641000" expanded="true" signature="22313:22890" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="22711:22868" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="22915:23060" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="23105:23252" ph="/* If the initial SphereCast fails, likely due to the controller clipping a wall, ... */" />
-            <marker date="1546854641000" expanded="true" signature="23354:24122" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="23506:23599" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="23809:23963" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="23984:24108" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="24139:24292" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="24339:24517" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="24589:24699" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="24797:26712" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="24925:24983" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="25153:25496" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="25327:25451" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="25670:26464" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="25961:26084" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="26296:26419" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="26501:26578" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="26595:26676" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="26722:27204" ph="/// To help the controller smoothly &quot;fall&quot; off surfaces and not hang on the edge of ledges, ... " />
-            <marker date="1546854641000" expanded="true" signature="27271:27817" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="27857:27918" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="27951:28014" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="28105:29048" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="28165:28310" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="28355:28492" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="28535:28669" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="28716:28855" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="28900:29038" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="29058:29557" ph="/// Provides raycast data based on where a SphereCast would contact the specified normal ... " />
-            <marker date="1546854641000" expanded="true" signature="29639:30825" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="29894:30420" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="30555:30740" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="30757:30815" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="30878:31125" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="31021:31123" ph="{...}" />
-            <marker date="1546854641000" expanded="true" signature="31155:31340" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/SuperCharacterController/SuperCharacterController/Core/SuperCharacterController.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-495">
@@ -832,46 +1030,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ButtonController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/MainButtonController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ButtonController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Huge Mocap Library/READTHIS.txt" />
+    <entry file="file://$PROJECT_DIR$/Assets/Huge Mocap Library/mocap animations/cmu-mocap-index-text.txt" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CameraControlled.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+        <state relative-caret-position="300">
+          <caret line="27" column="97" selection-start-line="27" selection-start-column="97" selection-end-line="27" selection-end-column="97" />
           <folding>
-            <marker date="1566803333657" expanded="true" signature="6:114" ph="..." />
-            <marker date="1566803333657" expanded="true" signature="161:561" ph="{...}" />
-            <marker date="1566803333657" expanded="true" signature="251:493" ph="{...}" />
-            <marker date="1566803333657" expanded="true" signature="285:374" ph="{...}" />
-            <marker date="1566803333657" expanded="true" signature="547:559" ph="{...}" />
+            <marker date="1566883738602" expanded="true" signature="6:146" ph="..." />
+            <marker date="1566883738602" expanded="true" signature="193:1050" ph="{...}" />
+            <marker date="1566883738602" expanded="true" signature="457:700" ph="{...}" />
+            <marker date="1566883738602" expanded="true" signature="761:1048" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Parameter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+          <folding>
+            <marker date="1566871655650" expanded="true" signature="6:78" ph="..." />
+            <marker date="1566871655650" expanded="true" signature="102:876" ph="{...}" />
+            <marker date="1566871655650" expanded="true" signature="365:586" ph="{...}" />
+            <marker date="1566871655650" expanded="true" signature="401:580" ph="{...}" />
+            <marker date="1566871655650" expanded="true" signature="623:873" ph="{...}" />
+            <marker date="1566871655650" expanded="true" signature="659:803" ph="{...}" />
+            <marker date="1566871655650" expanded="true" signature="825:867" ph="{...}" />
+            <marker date="1566871655650" expanded="true" signature="916:2124" ph="{...}" />
+            <marker date="1566871655650" expanded="true" signature="1535:1672" ph="{...}" />
+            <marker date="1566871655650" expanded="true" signature="1709:1730" ph="{...}" />
+            <marker date="1566871655650" expanded="true" signature="1762:2122" ph="{...}" />
+            <marker date="1566871655650" expanded="true" signature="1810:2115" ph="{...}" />
+            <marker date="1566871655650" expanded="true" signature="1862:2037" ph="{...}" />
+            <marker date="1566871655650" expanded="true" signature="1910:2023" ph="{...}" />
+            <marker date="1566871655650" expanded="true" signature="2054:2105" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/triggertouch.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        <state relative-caret-position="630">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
           <folding>
-            <marker date="1566457377256" expanded="false" signature="6:92" ph="..." />
-            <marker date="1566457377256" expanded="true" signature="135:2043" ph="{...}" />
-            <marker date="1566457377256" expanded="true" signature="416:531" ph="{...}" />
-            <marker date="1566457377256" expanded="true" signature="619:1819" ph="{...}" />
-            <marker date="1566457377256" expanded="true" signature="644:1803" ph="{...}" />
-            <marker date="1566457377256" expanded="true" signature="698:1793" ph="{...}" />
-            <marker date="1566457377256" expanded="true" signature="780:1762" ph="{...}" />
-            <marker date="1566457377256" expanded="true" signature="829:980" ph="{...}" />
-            <marker date="1566457377256" expanded="true" signature="1086:1209" ph="/* Vector3 vec = gameObject.transform.GetChild(0).position; ... */" />
-            <marker date="1566457377256" expanded="true" signature="1518:1674" ph="{...}" />
-            <marker date="1566457377256" expanded="true" signature="1699:1744" ph="{...}" />
-            <marker date="1566457377256" expanded="true" signature="1868:1980" ph="{...}" />
-            <marker date="1566457377256" expanded="true" signature="1914:1974" ph="{...}" />
-            <marker date="1566457377256" expanded="true" signature="2008:2041" ph="{...}" />
+            <marker date="1566875867002" expanded="false" signature="6:92" ph="..." />
+            <marker date="1566875867002" expanded="true" signature="135:1994" ph="{...}" />
+            <marker date="1566875867002" expanded="true" signature="416:531" ph="{...}" />
+            <marker date="1566875867002" expanded="true" signature="619:1770" ph="{...}" />
+            <marker date="1566875867002" expanded="true" signature="644:1754" ph="{...}" />
+            <marker date="1566875867002" expanded="true" signature="698:1744" ph="{...}" />
+            <marker date="1566875867002" expanded="true" signature="780:1713" ph="{...}" />
+            <marker date="1566875867002" expanded="true" signature="829:980" ph="{...}" />
+            <marker date="1566875867002" expanded="true" signature="1086:1209" ph="/* Vector3 vec = gameObject.transform.GetChild(0).position; ... */" />
+            <marker date="1566875867002" expanded="true" signature="1518:1674" ph="{...}" />
+            <marker date="1566875867002" expanded="true" signature="1819:1931" ph="{...}" />
+            <marker date="1566875867002" expanded="true" signature="1865:1925" ph="{...}" />
+            <marker date="1566875867002" expanded="true" signature="1959:1992" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
+        <state relative-caret-position="1710">
           <caret line="126" column="43" selection-start-line="126" selection-start-column="43" selection-end-line="126" selection-end-column="43" />
           <folding>
             <marker date="1520267386000" expanded="true" signature="6:86" ph="..." />
@@ -897,113 +1121,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Parameter.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/UnityChanController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="1890">
+          <caret line="146" column="26" selection-start-line="146" selection-start-column="26" selection-end-line="146" selection-end-column="26" />
           <folding>
-            <marker date="1566552587447" expanded="true" signature="6:78" ph="..." />
-            <marker date="1566552587447" expanded="true" signature="102:902" ph="{...}" />
-            <marker date="1566552587447" expanded="true" signature="365:585" ph="{...}" />
-            <marker date="1566552587447" expanded="true" signature="401:579" ph="{...}" />
-            <marker date="1566552587447" expanded="true" signature="622:899" ph="{...}" />
-            <marker date="1566552587447" expanded="true" signature="658:829" ph="{...}" />
-            <marker date="1566552587447" expanded="true" signature="851:893" ph="{...}" />
-            <marker date="1566552587447" expanded="true" signature="942:2150" ph="{...}" />
-            <marker date="1566552587447" expanded="true" signature="1561:1698" ph="{...}" />
-            <marker date="1566552587447" expanded="true" signature="1735:1756" ph="{...}" />
-            <marker date="1566552587447" expanded="true" signature="1788:2148" ph="{...}" />
-            <marker date="1566552587447" expanded="true" signature="1836:2141" ph="{...}" />
-            <marker date="1566552587447" expanded="true" signature="1888:2063" ph="{...}" />
-            <marker date="1566552587447" expanded="true" signature="1936:2049" ph="{...}" />
-            <marker date="1566552587447" expanded="true" signature="2080:2131" ph="{...}" />
+            <marker date="1566889441060" expanded="false" signature="6:174" ph="..." />
+            <marker date="1566889441060" expanded="true" signature="224:6119" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="1038:1237" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="1273:1453" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="1288:1329" ph="/* a==0 LV ... */" />
+            <marker date="1566889441060" expanded="true" signature="1567:1608" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="1650:1690" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="1725:1763" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="1812:2101" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="1860:2095" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="2131:2504" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="2161:2206" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="2521:2759" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="2788:3212" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="2818:2863" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="3240:3436" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="3466:3916" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="4072:6112" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="4186:4361" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="4547:5061" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="4585:4746" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="4779:4921" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="4938:5050" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="5103:6024" ph="{...}" />
+            <marker date="1566889441060" expanded="true" signature="6037:6106" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MainButtonController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/MainButtonController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="435">
+          <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
           <folding>
-            <marker date="1566806204784" expanded="false" signature="6:100" ph="..." />
-            <marker date="1566806204784" expanded="true" signature="154:1107" ph="{...}" />
-            <marker date="1566806204784" expanded="true" signature="344:1104" ph="{...}" />
-            <marker date="1566806204784" expanded="true" signature="359:416" ph="/* 渡されたオブジェクト名で処理を分岐 ... */" />
-            <marker date="1566806204784" expanded="true" signature="458:588" ph="{...}" />
-            <marker date="1566806204784" expanded="true" signature="636:765" ph="{...}" />
-            <marker date="1566806204784" expanded="true" signature="812:888" ph="{...}" />
-            <marker date="1566806204784" expanded="true" signature="936:1012" ph="{...}" />
-            <marker date="1566806204784" expanded="true" signature="1017:1098" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/CameraControlled.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="97" selection-start-line="27" selection-start-column="97" selection-end-line="27" selection-end-column="97" />
-          <folding>
-            <marker date="1566823439232" expanded="true" signature="6:146" ph="..." />
-            <marker date="1566823439232" expanded="true" signature="193:1050" ph="{...}" />
-            <marker date="1566823439232" expanded="true" signature="457:700" ph="{...}" />
-            <marker date="1566823439232" expanded="true" signature="761:1048" ph="{...}" />
+            <marker date="1566889712476" expanded="true" signature="6:100" ph="..." />
+            <marker date="1566889712476" expanded="true" signature="154:1162" ph="{...}" />
+            <marker date="1566889712476" expanded="true" signature="344:1159" ph="{...}" />
+            <marker date="1566889712476" expanded="true" signature="359:416" ph="/* 渡されたオブジェクト名で処理を分岐 ... */" />
+            <marker date="1566889712476" expanded="true" signature="458:588" ph="{...}" />
+            <marker date="1566889712476" expanded="true" signature="636:765" ph="{...}" />
+            <marker date="1566889712476" expanded="true" signature="812:943" ph="{...}" />
+            <marker date="1566889712476" expanded="true" signature="991:1067" ph="{...}" />
+            <marker date="1566889712476" expanded="true" signature="1072:1153" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/EnemyController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1093">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        <state relative-caret-position="359">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
           <folding>
-            <marker date="1566818813298" expanded="false" signature="6:162" ph="..." />
-            <marker date="1566818813298" expanded="true" signature="208:3715" ph="{...}" />
-            <marker date="1566818813298" expanded="true" signature="653:875" ph="{...}" />
-            <marker date="1566818813298" expanded="true" signature="917:951" ph="{...}" />
-            <marker date="1566818813298" expanded="true" signature="986:1166" ph="{...}" />
-            <marker date="1566818813298" expanded="true" signature="1001:1042" ph="/* a==0 LV ... */" />
-            <marker date="1566818813298" expanded="true" signature="1193:1283" ph="{...}" />
-            <marker date="1566818813298" expanded="true" signature="1323:1907" ph="{...}" />
-            <marker date="1566818813298" expanded="true" signature="1585:1758" ph="{...}" />
-            <marker date="1566818813298" expanded="true" signature="1771:1901" ph="{...}" />
-            <marker date="1566818813298" expanded="true" signature="1957:2481" ph="{...}" />
-            <marker date="1566818813298" expanded="true" signature="2004:2475" ph="{...}" />
-            <marker date="1566818813298" expanded="true" signature="2514:2811" ph="{...}" />
-            <marker date="1566818813298" expanded="true" signature="2840:3034" ph="{...}" />
-            <marker date="1566818813298" expanded="true" signature="3070:3713" ph="{...}" />
-            <marker date="1566818813298" expanded="true" signature="3269:3678" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/UnityChanController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="185" column="66" selection-start-line="185" selection-start-column="66" selection-end-line="185" selection-end-column="66" />
-          <folding>
-            <marker date="1566832944752" expanded="false" signature="6:161" ph="..." />
-            <marker date="1566832944752" expanded="true" signature="211:5230" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="911:1110" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="1146:1326" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="1161:1202" ph="/* a==0 LV ... */" />
-            <marker date="1566832944752" expanded="true" signature="1438:1487" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="1522:1560" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="1609:1847" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="1656:1841" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="1877:2250" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="1907:1952" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="2267:2505" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="2534:2959" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="2564:2609" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="2987:3183" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="3339:5223" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="3453:3628" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="3800:4172" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="3838:3999" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="4016:4161" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="4214:5135" ph="{...}" />
-            <marker date="1566832944752" expanded="true" signature="5148:5217" ph="{...}" />
+            <marker date="1566892031384" expanded="false" signature="6:162" ph="..." />
+            <marker date="1566892031384" expanded="true" signature="208:3884" ph="{...}" />
+            <marker date="1566892031384" expanded="true" signature="696:918" ph="{...}" />
+            <marker date="1566892031384" expanded="true" signature="960:994" ph="{...}" />
+            <marker date="1566892031384" expanded="true" signature="1029:1209" ph="{...}" />
+            <marker date="1566892031384" expanded="true" signature="1044:1085" ph="/* a==0 LV ... */" />
+            <marker date="1566892031384" expanded="true" signature="1236:1326" ph="{...}" />
+            <marker date="1566892031384" expanded="true" signature="1366:1966" ph="{...}" />
+            <marker date="1566892031384" expanded="true" signature="1641:1815" ph="{...}" />
+            <marker date="1566892031384" expanded="true" signature="1828:1960" ph="{...}" />
+            <marker date="1566892031384" expanded="true" signature="2016:2587" ph="{...}" />
+            <marker date="1566892031384" expanded="true" signature="2063:2581" ph="{...}" />
+            <marker date="1566892031384" expanded="true" signature="2620:2917" ph="{...}" />
+            <marker date="1566892031384" expanded="true" signature="2946:3140" ph="{...}" />
+            <marker date="1566892031384" expanded="true" signature="3190:3882" ph="{...}" />
+            <marker date="1566892031384" expanded="true" signature="3387:3847" ph="{...}" />
           </folding>
         </state>
       </provider>
