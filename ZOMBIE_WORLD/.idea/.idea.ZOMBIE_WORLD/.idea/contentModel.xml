@@ -41,6 +41,7 @@
           <e p="MainButtonController.cs" t="Include" />
         </e>
         <e p="Script" t="Include">
+          <e p="BlueBoarController.cs" t="Include" />
           <e p="ButtonController.cs" t="Include" />
           <e p="CameraControlled.cs" t="Include" />
           <e p="CreateSwordTrail.cs" t="Include" />
