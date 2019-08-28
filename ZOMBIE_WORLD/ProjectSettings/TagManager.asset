@@ -12,6 +12,8 @@ TagManager:
   - Button3
   - Button4
   - DragonBoar
+  - Grunt
+  - Weapon3
   layers:
   - Default
   - TransparentFX
