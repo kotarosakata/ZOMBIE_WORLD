@@ -12,7 +12,6 @@
             <e p="readme.txt" t="Include" />
           </e>
         </e>
-        <e p="GruntController.cs" t="Include" />
         <e p="Mega Fantasy Props Pack" t="Include">
           <e p="readme.txt" t="Include" />
         </e>
@@ -72,7 +71,9 @@
           <e p="ButtonController.cs" t="Include" />
           <e p="CameraControlled.cs" t="Include" />
           <e p="CreateSwordTrail.cs" t="Include" />
+          <e p="EnemyBehaviour.cs" t="Include" />
           <e p="EnemyController.cs" t="Include" />
+          <e p="GruntController.cs" t="Include" />
           <e p="HPbarController.cs" t="Include" />
           <e p="Parameter.cs" t="Include" />
           <e p="triggertouch.cs" t="Include" />
