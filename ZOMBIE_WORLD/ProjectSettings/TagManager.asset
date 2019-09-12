@@ -14,6 +14,7 @@ TagManager:
   - DragonBoar
   - Grunt
   - Weapon3
+  - PlayerList
   layers:
   - Default
   - TransparentFX
