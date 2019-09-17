@@ -2185,6 +2185,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GruntHP
       objectReference: {fileID: 0}
+    - target: {fileID: 100050, guid: aad05534a7ba0dd49b8c54ce188308ec, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400050, guid: aad05534a7ba0dd49b8c54ce188308ec, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.0033693
@@ -2231,6 +2235,34 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 431921873, guid: aad05534a7ba0dd49b8c54ce188308ec, type: 3}
       propertyPath: viewIdField
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 431921873, guid: aad05534a7ba0dd49b8c54ce188308ec, type: 3}
+      propertyPath: ObservedComponents.Array.data[1]
+      value: 
+      objectReference: {fileID: 431921872}
+    - target: {fileID: 431921873, guid: aad05534a7ba0dd49b8c54ce188308ec, type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 431921871}
+    - target: {fileID: 431921871, guid: aad05534a7ba0dd49b8c54ce188308ec, type: 3}
+      propertyPath: m_SynchronizeParameters.Array.data[0].SynchronizeType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 431921871, guid: aad05534a7ba0dd49b8c54ce188308ec, type: 3}
+      propertyPath: m_SynchronizeLayers.Array.data[0].SynchronizeType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 431921871, guid: aad05534a7ba0dd49b8c54ce188308ec, type: 3}
+      propertyPath: m_SynchronizeParameters.Array.data[1].SynchronizeType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 431921871, guid: aad05534a7ba0dd49b8c54ce188308ec, type: 3}
+      propertyPath: m_SynchronizeParameters.Array.data[2].SynchronizeType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 431921871, guid: aad05534a7ba0dd49b8c54ce188308ec, type: 3}
+      propertyPath: m_SynchronizeParameters.Array.data[3].SynchronizeType
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -3796,6 +3828,30 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 945722473}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &431921871 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 431921871, guid: aad05534a7ba0dd49b8c54ce188308ec,
+    type: 3}
+  m_PrefabInstance: {fileID: 217076440}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b8c4a61274f60b4ea5fb4299cfdbf14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &431921872 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 431921872, guid: aad05534a7ba0dd49b8c54ce188308ec,
+    type: 3}
+  m_PrefabInstance: {fileID: 217076440}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &433415022
 PrefabInstance:
   m_ObjectHideFlags: 0

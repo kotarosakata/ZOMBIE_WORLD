@@ -20,7 +20,6 @@
         <e p="MS_WeaponVol01" t="Include">
           <e p="readme.txt" t="Include" />
         </e>
-        <e p="NameInputFieldScript.cs" t="Include" />
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
             <e p="Code" t="Include">
