@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8d2e603-0b58-4b0e-b267-b726caf160a6" name="Default Changelist" comment="" />
+    <list default="true" id="c8d2e603-0b58-4b0e-b267-b726caf160a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ZOMBIE_WORLD/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,14 +163,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/CameraControlled.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="480">
+              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
               <folding>
-                <marker date="1568530602916" expanded="true" signature="6:196" ph="..." />
-                <marker date="1568530602916" expanded="true" signature="243:1575" ph="{...}" />
-                <marker date="1568530602916" expanded="true" signature="579:886" ph="{...}" />
-                <marker date="1568530602916" expanded="true" signature="909:1185" ph="{...}" />
-                <marker date="1568530602916" expanded="true" signature="1246:1573" ph="{...}" />
+                <marker date="1568689271195" expanded="true" signature="6:196" ph="..." />
+                <marker date="1568689271195" expanded="true" signature="243:1597" ph="{...}" />
+                <marker date="1568689271195" expanded="true" signature="579:886" ph="{...}" />
+                <marker date="1568689271195" expanded="true" signature="934:1210" ph="{...}" />
+                <marker date="1568689271195" expanded="true" signature="1271:1595" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -220,7 +223,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/UnityChanRoot.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="30">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <marker date="1568530803822" expanded="true" signature="6:257" ph="..." />
@@ -233,7 +236,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/LauncherScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
+            <state relative-caret-position="1230">
               <caret line="92" selection-start-line="92" selection-end-line="92" />
               <folding>
                 <marker date="1568680092913" expanded="true" signature="6:116" ph="..." />
@@ -264,8 +267,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Script/UnityChanController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="264" selection-start-line="264" selection-end-line="264" />
+            <state relative-caret-position="1004">
+              <caret line="269" column="89" lean-forward="true" selection-start-line="269" selection-start-column="89" selection-end-line="269" selection-end-column="89" />
               <folding>
                 <marker date="1568687223267" expanded="true" signature="6:257" ph="..." />
                 <marker date="1568687223267" expanded="true" signature="325:8580" ph="{...}" />
@@ -309,7 +312,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/CreateSwordTrail.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
+            <state relative-caret-position="645">
               <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <marker date="1566183286631" expanded="false" signature="6:78" ph="..." />
@@ -434,11 +437,11 @@
         <option value="$PROJECT_DIR$/Assets/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PunClasses.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/MainButtonController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/CameraControlled.cs" />
         <option value="$PROJECT_DIR$/Assets/UnityChanRoot.cs" />
         <option value="$PROJECT_DIR$/Assets/NameInputFieldScript.cs" />
         <option value="$PROJECT_DIR$/Assets/LauncherScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/UnityChanController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CameraControlled.cs" />
       </list>
     </option>
   </component>
@@ -457,12 +460,12 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -591,11 +594,12 @@
       <workItem from="1568529776462" duration="3000000" />
       <workItem from="1568678933341" duration="1832000" />
       <workItem from="1568684181886" duration="3619000" />
+      <workItem from="1568688509400" duration="2126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205779000" />
+    <option name="totallyTimeSpent" value="207905000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -608,8 +612,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2192" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22186667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2000,20 +2005,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/CameraControlled.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <marker date="1568530602916" expanded="true" signature="6:196" ph="..." />
-            <marker date="1568530602916" expanded="true" signature="243:1575" ph="{...}" />
-            <marker date="1568530602916" expanded="true" signature="579:886" ph="{...}" />
-            <marker date="1568530602916" expanded="true" signature="909:1185" ph="{...}" />
-            <marker date="1568530602916" expanded="true" signature="1246:1573" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/GameController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -2054,9 +2045,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UnityChanRoot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1568530803822" expanded="true" signature="6:257" ph="..." />
+            <marker date="1568530803822" expanded="true" signature="301:305" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/LauncherScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
+        <state relative-caret-position="1230">
           <caret line="92" selection-start-line="92" selection-end-line="92" />
           <folding>
             <marker date="1568680092913" expanded="true" signature="6:116" ph="..." />
@@ -2083,20 +2085,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UnityChanRoot.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <marker date="1568530803822" expanded="true" signature="6:257" ph="..." />
-            <marker date="1568530803822" expanded="true" signature="301:305" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/CreateSwordTrail.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="645">
           <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
             <marker date="1566183286631" expanded="false" signature="6:78" ph="..." />
@@ -2127,10 +2118,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CameraControlled.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <marker date="1568689271195" expanded="true" signature="6:196" ph="..." />
+            <marker date="1568689271195" expanded="true" signature="243:1597" ph="{...}" />
+            <marker date="1568689271195" expanded="true" signature="579:886" ph="{...}" />
+            <marker date="1568689271195" expanded="true" signature="934:1210" ph="{...}" />
+            <marker date="1568689271195" expanded="true" signature="1271:1595" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/UnityChanController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="264" selection-start-line="264" selection-end-line="264" />
+        <state relative-caret-position="1004">
+          <caret line="269" column="89" lean-forward="true" selection-start-line="269" selection-start-column="89" selection-end-line="269" selection-end-column="89" />
           <folding>
             <marker date="1568687223267" expanded="true" signature="6:257" ph="..." />
             <marker date="1568687223267" expanded="true" signature="325:8580" ph="{...}" />
