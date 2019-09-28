@@ -389,7 +389,6 @@
           <e p="HPbarController.cs" t="Include" />
           <e p="MainButtonController.cs" t="Include" />
           <e p="Parameter.cs" t="Include" />
-          <e p="triggertouch.cs" t="Include" />
           <e p="UnityChanController.cs" t="Include" />
         </e>
         <e p="SpellBookPreface" t="Include">
