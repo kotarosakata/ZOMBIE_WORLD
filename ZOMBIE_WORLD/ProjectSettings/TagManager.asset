@@ -15,6 +15,10 @@ TagManager:
   - Grunt
   - Weapon3
   - PlayerList
+  - Button5
+  - Button6
+  - Button7
+  - Buuton8
   layers:
   - Default
   - TransparentFX
