@@ -391,6 +391,7 @@
           <e p="Parameter.cs" t="Include" />
           <e p="UnityChanController.cs" t="Include" />
         </e>
+        <e p="SeLectAbility.cs" t="Include" />
         <e p="SpellBookPreface" t="Include">
           <e p="readme.txt" t="Include" />
         </e>
