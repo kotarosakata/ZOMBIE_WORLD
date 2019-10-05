@@ -18,7 +18,8 @@ TagManager:
   - Button5
   - Button6
   - Button7
-  - Buuton8
+  - Button8
+  - MagicBall
   layers:
   - Default
   - TransparentFX
